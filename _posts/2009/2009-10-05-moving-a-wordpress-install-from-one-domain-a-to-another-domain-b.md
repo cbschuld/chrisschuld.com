@@ -3,7 +3,7 @@ title: Moving a WordPress Install from one Domain (A) to another Domain (B)
 layout: post
 categories: [Development, WordPress]
 tags: wordpress
-redirect_from: /2009/10/moving-a-wordpress-install-from-one-domain-a-to-another-domain-b
+redirect_from: /2009/10/moving-a-wordpress-install-from-one-domain-a-to-another-domain-b/
 ---
 
 From time to time I had have to move one installation of WordPress from one domain (<em>let's call it domain A</em>) to a new domain (<em>let's call it domain B</em>).  Because WordPress embeds the domain all over the data schema (not faulting; simply disclosing) you have to make a lot of dB changes for the updated site location to function.  Here is the quick and dirty way to move the data:

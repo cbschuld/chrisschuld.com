@@ -3,7 +3,7 @@ title: How to fix the Curl Error&#58; error setting certificate verify locations
 layout: post
 categories: [Development, Linux]
 tags: centos
-redirect_from: /2008/07/how-to-fix-the-curl-error-error-setting-certificate-verify-locations
+redirect_from: /2008/07/how-to-fix-the-curl-error-error-setting-certificate-verify-locations/
 ---
 
 Today I had a new server running CentOS5 have trouble with a known good authorize.net library using curl.  It was producing the following error&#58;

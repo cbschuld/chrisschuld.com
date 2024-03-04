@@ -3,7 +3,7 @@ title: "Send an SMS message with Twilio from a CloudWatch Alarm via SNS (through
 categories: [AWS]
 layout: post
 tags: dev twilio aws serverless
-redirect_from: /2020/07/sending-a-twilio-text-message-from-cloudwatch-via-sns
+redirect_from: /2020/07/sending-a-twilio-text-message-from-cloudwatch-via-sns/
 ---
 
 ### Summary

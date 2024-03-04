@@ -3,7 +3,7 @@ title: Adjusting RAM for an OpenVZ VPS
 layout: post
 categories: [Development, Linux]
 tags: openvz
-redirect_from: /2009/09/adjusting-ram-for-an-openvz-vps
+redirect_from: /2009/09/adjusting-ram-for-an-openvz-vps/
 ---
 
 Here are commands to help adjust the memory / RAM for an OpenVZ VPS:

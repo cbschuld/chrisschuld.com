@@ -2,7 +2,7 @@
 title:  Take a Screen Shot on OSX (Mac) with a perfect shadow
 layout: post
 tags: osx mac
-redirect_from: /2019/02/screen-shot-on-osx-mac-with-shadow
+redirect_from: /2019/02/screen-shot-on-osx-mac-with-shadow/
 ---
 
 [commandshift4]: /public/images/command-shift-4.png "Command + Shift + 4"

@@ -3,7 +3,7 @@ title: Dumping Addresses from phplist
 layout: post
 categories: [Development, PHP]
 tags: php
-redirect_from: /2011/07/dumping-addresses-from-phplist
+redirect_from: /2011/07/dumping-addresses-from-phplist/
 ---
 
 We recently moved away from phplist (goodbye phplist — we loved you for a while but now we need more power). Here is the SQL used to rip our users out of the main list. Attributes 1 and 2 are the first and last name.

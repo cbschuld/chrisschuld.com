@@ -3,7 +3,7 @@ title: Opera 10's User Agent
 layout: post
 categories: [Development, Browsers]
 tags: php
-redirect_from: /2009/11/opera-10s-user-agent
+redirect_from: /2009/11/opera-10s-user-agent/
 ---
 
 For those of you who detect Opera 10's user agent, the Opera team has provide some "fun" for all of us.  In my B<a href="http://chrisschuld.com/projects/browser-php-detecting-a-users-browser-from-php/">rowser project</a> I started getting feedback that it was broken.  At the 10,000' level, it was defintely broken because the <a href="http://chrisschuld.com/projects/browser-php-detecting-a-users-browser-from-php/">Browser project</a> was returning version 9.8 for Opera version 10.

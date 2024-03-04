@@ -3,7 +3,7 @@ title: "Hosting Gatsby Sites on AWS CloudFront"
 categories: [AWS]
 layout: post
 tags: dev gatsby aws
-redirect_from: /2020/05/gatsby-hosting-on-cloudfront
+redirect_from: /2020/05/gatsby-hosting-on-cloudfront/
 ---
 
 *Gatsby is a free and open source framework based on React JS that helps you build incredibly fast websites which you can export in mostly HTML and CSS (and React where you need it).  It's magical!*

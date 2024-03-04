@@ -3,7 +3,7 @@ title: Setting Environment Variables in Perl
 layout: post
 categories: [Development, Linux]
 tags: perl
-redirect_from: /2007/08/setting-environment-variables-in-perl
+redirect_from: /2007/08/setting-environment-variables-in-perl/
 ---
 
 If you ever have to set an environment variable you may run into the same reality I ran into.

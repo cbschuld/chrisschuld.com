@@ -2,7 +2,7 @@
 title: Browser.php updated to v1.4
 layout: post
 tags: php
-redirect_from: /2009/04/browserphp-updated-to-v1-4
+redirect_from: /2009/04/browserphp-updated-to-v1-4/
 ---
 
 I released v1.4 of the Browser.php project today to address a few features suggested by readers.  This new release adds support for <a href="http://en.wikipedia.org/wiki/Googlebot">GoogleBot</a>, <a href="http://help.yahoo.com/l/us/yahoo/search/webcrawler/">Yahoo! Slurp</a>, and the <a href="http://validator.w3.org/">W3C Validator</a>.

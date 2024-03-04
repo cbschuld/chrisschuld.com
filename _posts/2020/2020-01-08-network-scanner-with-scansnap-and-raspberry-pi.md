@@ -3,7 +3,7 @@ title: Network Scanner with Fujitsu ScanSnap and a Raspberry Pi
 categories: [Development, Raspberry Pi]
 layout: post
 tags: pi linux home-automation
-redirect_from: /2020/01/network-scanner-with-scansnap-and-raspberry-pi
+redirect_from: /2020/01/network-scanner-with-scansnap-and-raspberry-pi/
 ---
 
 My trusty Fujitsu ScanSnap S1500 had to be tossed aside when MacOS Catalina ditched the 32bit libraries.  It sat lifeless on my desk until I realized I could use a Raspberry Pi to bring it back to life as a headless network scanner.

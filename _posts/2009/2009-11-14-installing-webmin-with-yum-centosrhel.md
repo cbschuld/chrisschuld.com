@@ -3,7 +3,7 @@ title: Installing Webmin with YUM (CentOS,RHEL)
 layout: post
 categories: [Development, Linux]
 tags: openvz
-redirect_from: /2009/11/installing-webmin-with-yum-centosrhel
+redirect_from: /2009/11/installing-webmin-with-yum-centosrhel/
 ---
 Here are the commands to install Webmin via Yum:
 

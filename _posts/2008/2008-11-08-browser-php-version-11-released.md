@@ -2,7 +2,7 @@
 title: Browser.php - version 1.1 - released!
 layout: post
 tags: php
-redirect_from: /2008/11/browser-php-version-11-released
+redirect_from: /2008/11/browser-php-version-11-released/
 ---
 
 I updated the <a href="http://chrisschuld.com/projects/browser-php-detecting-a-users-browser-from-php/">Browser.php class</a> today to detect Google's Chrome Browser.  Additionally, thanks to an idea from <a href="http://mavrick.id.au/">Daniel 'mavrick' Lang</a>, I added <strong>isBrowser($browserName)</strong> as a function to version 1.1.

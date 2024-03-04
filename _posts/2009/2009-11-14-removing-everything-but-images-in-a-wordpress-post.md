@@ -3,7 +3,7 @@ title: Removing everything BUT Images in a WordPress Post
 layout: post
 categories: [Development, WordPress]
 tags: wordpress
-redirect_from: /2009/11/removing-everything-but-images-in-a-wordpress-post
+redirect_from: /2009/11/removing-everything-but-images-in-a-wordpress-post/
 ---
 A while back I wrote an article on <a href="http://chrisschuld.com/2008/08/removing-images-from-a-wordpress-post/">Removing Images from a WordPress</a> Post.  Sebastian asked an interesting question; he wanted to remove everything but the images.  This is actually pretty straightforward; here is how you do it:
 ```php

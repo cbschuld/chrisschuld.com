@@ -3,7 +3,7 @@ title: Updating Home Assistant with Docker
 categories: [Development, Home Assistant]
 layout: post
 tags: docker home-automation home-assistant
-redirect_from: /2019/10/updating-home-assistant-docker
+redirect_from: /2019/10/updating-home-assistant-docker/
 ---
 
 When I was exiting the world of [HASSIO](https://www.home-assistant.io/hassio/) I read one of the major benefits is updating.  Was updating hard?  I found out it was not. :unamused:

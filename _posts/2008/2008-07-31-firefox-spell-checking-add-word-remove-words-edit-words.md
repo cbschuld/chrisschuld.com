@@ -4,8 +4,8 @@ layout: post
 categories: [Development, Browsers]
 tags: centos
 redirect_from: 
-    - /2008/07/firefox-spell-checking-add-word-remove-words-edit-words
-    - /2007/07/firefox-spell-checking-add-word-remove-words-edit-words
+    - /2008/07/firefox-spell-checking-add-word-remove-words-edit-words/
+    - /2007/07/firefox-spell-checking-add-word-remove-words-edit-words/
 ---
 
 <em>Question&#58; I just accidentally added a misspelled word to Firefox's built in dictionary -- how do I remove it?</em>

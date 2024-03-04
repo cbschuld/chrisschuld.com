@@ -3,7 +3,7 @@ title: Installing Sun's Java on CentOS 5.2
 layout: post
 categories: [Development, Linux]
 tags: centos
-redirect_from: /2008/10/installing-sun-java-on-centos-5-2
+redirect_from: /2008/10/installing-sun-java-on-centos-5-2/
 ---
 
 By far the most messy thing on CentOS 5.2 is adding Sun's Java.  I have never found great success from the different packages that are out there for installing java.  I prefer to simply use the packages from Sun.

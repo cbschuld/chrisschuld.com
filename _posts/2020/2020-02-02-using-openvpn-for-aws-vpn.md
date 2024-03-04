@@ -3,7 +3,7 @@ title: Using OpenVPN to create a simple VPN for AWS with SSL/Let's Encrypt
 categories: [AWS]
 layout: post
 tags: aws
-redirect_from: /2020/02/using-openvpn-for-aws-vpn
+redirect_from: /2020/02/using-openvpn-for-aws-vpn/
 ---
 
 I continue to find a need for a simple and inexpensive VPN solution for Amazon Web Services.  The VPN solutions AWS provides feel like extended pricing overkill for what I am typically looking for.  I also want to add SSL for the HTTPS side of the configuration via [Let's Encrypt](https://letsencrypt.org/).

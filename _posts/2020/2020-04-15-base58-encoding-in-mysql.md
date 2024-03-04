@@ -3,7 +3,7 @@ title: "Base-58 Encoding really big numbers in MySQL (5.6>)(128 bit)"
 categories: [Development]
 layout: post
 tags: dev mysql
-redirect_from: /2020/04/base58-encoding-in-mysql
+redirect_from: /2020/04/base58-encoding-in-mysql/
 ---
 
 Encoding numbers in base-58 via MySQL is fairly straightforward until you start overflowing integer types.  Basically as soon as you reach a 65bit number.  If you search for base-58 encoding in MySQL there is not a lot of info overall.  Micah Walter has a clean function called [base58_encode](https://gist.github.com/micahwalter/d6c8f8bc677978cf01a5) that works well until you toss in anything larger than a BIGINT.  It overflows:

@@ -3,7 +3,7 @@ title: The HTML Validator Firefox Plugin In Linux
 layout: post
 categories: [Development, Browsers]
 tags: fedora firefox
-redirect_from: /2007/08/the-html-validator-firefox-plugin-in-linux
+redirect_from: /2007/08/the-html-validator-firefox-plugin-in-linux/
 ---
 
 I use the "<a href="http://users.skynet.be/mgueury/mozilla/">HTML Validator</a>" Firefox plugin daily.  I found it does not work out of the box in Linux namely <a href="http://fedoraproject.org/">Fedora Core 6</a> and <a href="http://fedoraproject.org/">Fedora 7</a>.  You immediately get a HTML-rendered screen that states&#58;

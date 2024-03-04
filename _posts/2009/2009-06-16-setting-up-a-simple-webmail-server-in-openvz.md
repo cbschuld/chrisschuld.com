@@ -3,7 +3,7 @@ title: Setting up a simple Web/Mail Server in OpenVZ
 layout: post
 categories: [Development, Linux]
 tags: php
-redirect_from: /2009/06/setting-up-a-simple-webmail-server-in-openvz
+redirect_from: /2009/06/setting-up-a-simple-webmail-server-in-openvz/
 ---
 
 Here are the steps I continue to use over and over to build utilities/project servers in OpenVZ.  Utilities servers host web apps, mailing applications, etc for my company.  We usually build them as self-contained little appliance-like servers.  My vision and goal is <strong>simple == better</strong> every day!

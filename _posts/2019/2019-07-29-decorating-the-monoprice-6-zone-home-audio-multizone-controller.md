@@ -4,7 +4,7 @@ categories: [Home Automation]
 layout: post
 description: How to use an inexpensive Raspberry Pi to give your Amp a JSON API
 tags: home-automation
-redirect_from: /2019/07/decorating-the-monoprice-6-zone-home-audio-multizone-controller
+redirect_from: /2019/07/decorating-the-monoprice-6-zone-home-audio-multizone-controller/
 ---
 
 <img src="https://s3-us-west-2.amazonaws.com/chrisschuld.com/images/monoprice-six-zone-amp-rear.png" style="width:400px;float:right;"/>

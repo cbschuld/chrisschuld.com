@@ -3,7 +3,7 @@ title: "Retrieving Parameters in the AWS Parameter Store with Node/Typescript"
 categories: [AWS]
 layout: post
 tags: dev aws node serverless
-redirect_from: /2020/07/aws-retrieving-secrets-in-parameter-store-with-node
+redirect_from: /2020/07/aws-retrieving-secrets-in-parameter-store-with-node/
 ---
 
 ### Summary

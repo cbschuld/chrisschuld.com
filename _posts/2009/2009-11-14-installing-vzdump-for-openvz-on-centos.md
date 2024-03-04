@@ -3,7 +3,7 @@ title: Installing vzdump for OpenVZ on CentOS
 layout: post
 categories: [Development, Linux]
 tags: openvz
-redirect_from: /2009/11/installing-vzdump-for-openvz-on-centos
+redirect_from: /2009/11/installing-vzdump-for-openvz-on-centos/
 ---
 There are a few items required for installing <a href="http://wiki.openvz.org/Backup_of_a_running_container_with_vzdump">vzdump</a> for <a href="http://wiki.openvz.org/Main_Page">OpenVZ</a> on CentOS.
 

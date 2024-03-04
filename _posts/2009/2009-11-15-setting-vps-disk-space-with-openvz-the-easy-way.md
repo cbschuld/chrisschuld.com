@@ -3,7 +3,7 @@ title: Setting VPS Disk Space with OpenVZ the &quot;easy way&quot;
 layout: post
 categories: [Development, Linux]
 tags: openvz
-redirect_from: /2009/11/setting-vps-disk-space-with-openvz-the-easy-way
+redirect_from: /2009/11/setting-vps-disk-space-with-openvz-the-easy-way/
 ---
 Disk space can be easily controlled via OpenVZ but I have yet to find anyone to actually explain what the heck to "really" do when you need to add more! Everything I have found about OpenVZ just explains the parameters and never shows you how to do it easily. When I need to adjust disk space on an VPS it is usually when I have someone beating up my ear on the phone or my IM so I needed a fast way to expand the disk without worrying about the details.
 There are three parameters in OpenVZ which are directly related to disk usage. They are <strong>disk_quota</strong>, <strong>diskspace</strong> and <strong>diskinodes</strong>. <em><strong>NOTE</strong>: there are a lot of other parameters that control and effect the disk but this tutorial will only cover the basics!</em>

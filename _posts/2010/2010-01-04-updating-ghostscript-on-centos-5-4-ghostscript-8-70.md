@@ -3,7 +3,7 @@ title: Updating Ghostscript on CentOS 5.4 (ghostscript 8.70) (the remix)
 layout: post
 categories: [Development, Linux]
 tags: linux
-redirect_from: /2010/01/updating-ghostscript-on-centos-5-4-ghostscript-8-70
+redirect_from: /2010/01/updating-ghostscript-on-centos-5-4-ghostscript-8-70/
 ---
 A while back I wrote an article on [updating to ghostscript 8.63 on CentOS 5.2](http://{{ site.url }}/updating-ghostscript-on-centos-52-ghostscript-863/). I received a fair amount of email and comments on the topic ranging from "thanks" to "you don't know what your talking about!" I thought I would update the original post to include the latest release of ghostscript (8.7) as well as answer and respond to the best question / statement in the comments... "how do you do that and can you post the SRPMS?" The answer is, yes, here is how I do it and "yes" I'll post the SRPMs (or more appropriately where I get them).
 

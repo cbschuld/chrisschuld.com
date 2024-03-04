@@ -3,7 +3,7 @@ title: Setting up an OpenVZ VPS DNS Server in CentOS 5.3
 layout: post
 categories: [Development, Linux]
 tags: centos openvz
-redirect_from: /2009/09/setting-up-an-openvz-vps-dns-server-in-centos-5-3
+redirect_from: /2009/09/setting-up-an-openvz-vps-dns-server-in-centos-5-3/
 ---
 Here is my quick-and dirty way to build DNS servers using OpenVZ, CentOS and Bind/Named.  This assumes you are creating a new server via OpenVZ.  Although Bind is easy to admin with the configuration files recently I have found it is easier to simply admin the zones with Webmin.  This setup will create the VPS, install Bind and install Webmin.
 

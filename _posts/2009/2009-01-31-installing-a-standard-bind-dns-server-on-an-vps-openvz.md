@@ -3,7 +3,7 @@ title: Installing a standard Bind DNS server on an VPS (openvz)
 layout: post
 categories: [Development, Linux]
 tags: linux centos
-redirect_from: /2009/01/installing-a-standard-bind-dns-server-on-an-vps-openvz
+redirect_from: /2009/01/installing-a-standard-bind-dns-server-on-an-vps-openvz/
 ---
 
 All of our name servers I use are virtual servers and we add them into our network as OpenVZ VPS systems.  Here is the setup I use for setting up a Bind server on an OpenVZ VPS with CentOS 5.

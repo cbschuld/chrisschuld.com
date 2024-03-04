@@ -3,7 +3,7 @@ title: Base class package &quot;Tree&#58;&#58;DAG_Node&quot; is empty
 layout: post
 categories: [Development, Perl]
 tags: linux perl
-redirect_from: /2008/11/base-class-package-treedag_node-is-empty
+redirect_from: /2008/11/base-class-package-treedag_node-is-empty/
 ---
 
 Today I ran into this error:

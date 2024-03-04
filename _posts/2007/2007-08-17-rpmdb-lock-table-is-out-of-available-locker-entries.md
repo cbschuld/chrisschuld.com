@@ -3,7 +3,7 @@ title: rpmdb&#58; Lock table is out of available locker entries
 layout: post
 categories: [Development, Linux]
 tags: linux fedora
-redirect_from: /2007/08/rpmdb-lock-table-is-out-of-available-locker-entries
+redirect_from: /2007/08/rpmdb-lock-table-is-out-of-available-locker-entries/
 ---
 
 If while using 'yum' or 'rpm' you receive the following error:

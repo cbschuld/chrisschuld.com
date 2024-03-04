@@ -3,7 +3,7 @@ title: Using Docker to run phpMyAdmin on local or remote databases
 categories: [Development,Docker]
 layout: post
 tags: docker php database
-redirect_from: /2019/06/using-docker-to-run-phpmyadmin-on-local-or-remote-databases
+redirect_from: /2019/06/using-docker-to-run-phpmyadmin-on-local-or-remote-databases/
 ---
 
 >I have found that I use [phpMyAdmin](https://www.phpmyadmin.net/) more than I want to admit to anyone for MySQL, MariaDB or AWS Aurora development iteration.  The team working on phpMyAdmin does such a great job with the tool.  However, it is somewhat of a pain to run it locally or on a network near your database.  You have to setup a server, have PHP working 100%, etc.  Docker makes this infinitely easier.  You can run phpMyAdmin on a local (or even remote) database.  All you need to know is the hostname; let Docker and this image do the rest.

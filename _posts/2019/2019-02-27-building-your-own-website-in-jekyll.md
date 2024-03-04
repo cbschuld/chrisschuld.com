@@ -2,7 +2,7 @@
 title: Building your own Personal Website in Jekyll
 categories: [Development]
 tags: jekyll blog website docker
-redirect_from: /2019/02/building-your-own-website-in-jekyll
+redirect_from: /2019/02/building-your-own-website-in-jekyll/
 ---
 
 > A simple walk-through for creating a static blog website using Jekyll, a Liquid Theme, hosted on Github pages, using Markdown and Docker for local hosting.

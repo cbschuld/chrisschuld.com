@@ -3,7 +3,7 @@ title: Updating Ghostscript on CentOS 5.2 &#40;ghostscript 8.63&#41;
 layout: post
 categories: [Development, Linux]
 tags: linux centos
-redirect_from: /2008/11/updating-ghostscript-on-centos-52-ghostscript-863
+redirect_from: /2008/11/updating-ghostscript-on-centos-52-ghostscript-863/
 ---
 
 <strong>PLEASE NOTE: I have <a href="http://chrisschuld.com/2010/01/updating-ghostscript-on-centos-5-4-ghostscript-8-70/">posted an update for CentOS5.4 and GhostScript 8.70</a>!</strong>

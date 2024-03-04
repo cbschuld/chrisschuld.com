@@ -3,7 +3,7 @@ title: Playing MP3 Files in Fedora 8 using Gnome
 layout: post
 categories: [Development, Browsers]
 tags: linux fedora
-redirect_from: /2007/11/playing-mp3-files-in-fedora-8-audio-files
+redirect_from: /2007/11/playing-mp3-files-in-fedora-8-audio-files/
 ---
 
 To play MP3 files in Fedora 8 you need to add software to your default installation:

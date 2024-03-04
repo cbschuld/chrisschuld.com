@@ -3,7 +3,7 @@ title: Email Address Parsing
 layout: post
 categories: [Development, Linux]
 tags: linux regex
-redirect_from: /2007/07/email-address-parsing
+redirect_from: /2007/07/email-address-parsing/
 ---
 
 Parsing out email addresses is a tedious task.  This task hits my desk on a consistent basis.  Usually, in my case, the list is coming out of Outlook.  If the target list is coming out of Outlook make sure you export using Tab Separated for DOS (thus, click on File&#45;&#45;&#62;Import/Export-->Export to a File&#45;&#45;&#62;Tab Separated (DOS)&#45;&#45;&#62;&#91;select_the_target_folder&#91;).  Take this target file and execute this command&#58;

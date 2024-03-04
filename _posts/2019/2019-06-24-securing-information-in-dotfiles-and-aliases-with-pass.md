@@ -3,7 +3,7 @@ title: Securing Information in dotfiles / aliases / command line in MacOS with P
 categories: [Development]
 layout: post
 tags: macos linux
-redirect_from: /2019/06/securing-information-in-dotfiles-and-aliases-with-pass
+redirect_from: /2019/06/securing-information-in-dotfiles-and-aliases-with-pass/
 ---
 
 > The intent of this is to give a single walk through on setting up, installing and using pass (password store) on my Mac (macOS) along with [Github](https://github.com/) to maintain sensitive information within my day-to-day operational scripts, aliases and commands.  When I was setting this up initially I could not find a single document with a selfishly direct explanation.  I just wanted a simple system to store a password on a shared encrypted repo, add passwords and use them in a script or command.

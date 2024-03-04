@@ -3,7 +3,7 @@ title: Cellpadding and Cellspacing in CSS (part 2)
 categories: [Development, CSS]
 layout: post
 tags: css xhtml
-redirect_from: /2008/06/cellpadding-and-cellspacing-in-css-part-2
+redirect_from: /2008/06/cellpadding-and-cellspacing-in-css-part-2/
 ---
 
 Here is a follow up to the <a href="http://chrisschuld.com/2008/04/cellpadding-and-cellspacing-in-css/">cellpadding and cellspacing post</a> I made a while back.  The cellpadding and cellspacing can be completely controlled in CSS.  I realized today. I spoke only about collapsing the borders and not creating spacing `or the equivalent of cellspacing equal to something other than 0`.

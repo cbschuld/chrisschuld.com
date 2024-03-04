@@ -3,7 +3,7 @@ title: "Waiting for MySQL in Docker (Github Workflow/Actions)"
 categories: [Development, Docker]
 layout: post
 tags: dev docker
-redirect_from: /2020/08/waiting-for-mysql-in-docker
+redirect_from: /2020/08/waiting-for-mysql-in-docker/
 ---
 
 ## Summary

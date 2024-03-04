@@ -3,7 +3,7 @@ title: How to install &quot;dig&quot;&#58; -bash&#58; &#47;usr&#47;bin&#47;dig&#
 layout: post
 categories: [Development, Linux]
 tags: centos
-redirect_from: /2008/11/how-to-install-dig-bash-usrbindig-no-such-file-or-directory
+redirect_from: /2008/11/how-to-install-dig-bash-usrbindig-no-such-file-or-directory/
 ---
 
 If you are missing the dig command it means you are missing a package called bind-utils.  To install this package use yum to install bind utils:

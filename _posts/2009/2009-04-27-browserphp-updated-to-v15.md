@@ -2,7 +2,7 @@
 title: Browser.php updated to v1.5
 layout: post
 tags: php
-redirect_from: /2009/04/browserphp-updated-to-v15
+redirect_from: /2009/04/browserphp-updated-to-v15/
 ---
 
 In the Browser.php project John pointed out (<em>in the comments</em>) a terrible typo in the source.  I imagine no one has encountered this before as  it only effects v1 or v1.5 of Internet Explorer.

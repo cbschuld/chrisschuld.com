@@ -3,7 +3,7 @@ title: Installing docker and docker-compose on a Raspberry PI4 with Raspian
 categories: [Development, Raspberry Pi]
 layout: post
 tags: docker pi
-redirect_from: /2019/09/installing-docker-and-docker-compose-on-raspberry-pi4-with-raspian
+redirect_from: /2019/09/installing-docker-and-docker-compose-on-raspberry-pi4-with-raspian/
 ---
 
 Installing the latest Docker on RPI4 is not straightforward because the versions on apt are old (currently).  Here is how you install current versions of both *docker* and *docker-compose*

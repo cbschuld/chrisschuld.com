@@ -3,7 +3,7 @@ title: pdftk for CentOS5 (AccessPDF for CentOS 5)
 layout: post
 categories: [Development, Linux]
 tags: linux centos
-redirect_from: /2008/05/pdftk-for-centos5-accesspdf
+redirect_from: /2008/05/pdftk-for-centos5-accesspdf/
 ---
 
 <p>

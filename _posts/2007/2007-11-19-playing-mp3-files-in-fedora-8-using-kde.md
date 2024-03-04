@@ -3,7 +3,7 @@ title: Playing MP3 Files in Fedora 8 using KDE
 layout: post
 categories: [Development, Browsers]
 tags: linux fedora
-redirect_from: /2007/11/playing-mp3-files-in-fedora-8-using-kde
+redirect_from: /2007/11/playing-mp3-files-in-fedora-8-using-kde/
 ---
 
 To play MP3 files in Fedora 8 with KDE you need to add software to your default installation.  This software does not come "stock" with KDE because the software is not free and RedHat is required to <em>filter it</em> -- therefore if you download this update make sure you check the licensing agreements&#58;

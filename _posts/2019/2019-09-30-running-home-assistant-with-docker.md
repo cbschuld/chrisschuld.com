@@ -3,7 +3,7 @@ title: Running Home Assistant with Docker (docker-compose)
 categories: [Development, Home Assistant]
 layout: post
 tags: docker home-automation home-assistant
-redirect_from: /2019/09/running-home-assistant-with-docker
+redirect_from: /2019/09/running-home-assistant-with-docker/
 ---
 
 [Home Assistant](https://www.home-assistant.io/0) on [Docker](https://www.docker.com/) is easier than running it with [HASSIO](https://www.home-assistant.io/hassio/) IMO.  :rocket:

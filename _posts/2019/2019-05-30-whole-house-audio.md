@@ -3,7 +3,7 @@ title: Whole House Audio - Small Price / Big Value
 categories: [Home Automation]
 layout: post
 tags: home-automation audio
-redirect_from: /2019/05/whole-house-audio
+redirect_from: /2019/05/whole-house-audio/
 ---
 
 Whole House Audio is a really expensive endeavor to start out on.  I was shocked how much the "retail" systems cost and had no interest in spending that kind of money while releasing a lot of "control" to the app associated with the system.  I had a list of goals and a vision in my mind that I was striving for:

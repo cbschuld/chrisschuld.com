@@ -3,7 +3,7 @@ title: Installing PBX in a Flash (PIAF) on an OpenVZ VPS
 layout: post
 categories: [Development, Linux]
 tags: linux centos openvz asterisk
-redirect_from: /2008/11/installing-pbx-in-a-flash-piaf-on-an-openvz-vps
+redirect_from: /2008/11/installing-pbx-in-a-flash-piaf-on-an-openvz-vps/
 ---
 
 After digging through the Internet looking for a solution to install <a href="http://pbxinaflash.net/">PBX in a Flash</a> on an <a href="http://wiki.openvz.org">OpenVZ</a> VPS and coming out empty handed I decided to dissect the installation myself and I came up with the following method for installing the PBX system on an OpenVZ VPS.  Now, that being said I could not find another "working" solution so this may not be the "best" method but it is repeatable and does work.  I have a PBX running off this installation currently.

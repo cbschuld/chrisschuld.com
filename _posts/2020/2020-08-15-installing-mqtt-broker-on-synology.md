@@ -3,7 +3,7 @@ title: "Installing an MQTT Broker with Synology (Mosquitto on Docker)"
 categories: [Development, Docker]
 layout: post
 tags: dev ha docker
-redirect_from: /2020/08/installing-mqtt-broker-on-synology
+redirect_from: /2020/08/installing-mqtt-broker-on-synology/
 ---
 
 ### Summary

@@ -3,7 +3,7 @@ title: How to connect two pfSense routers via IPSec
 categories: [Development]
 layout: post
 tags: networking pfsense
-redirect_from: /2019/06/how-I-connect-two-sites-using-pfsense-ipsec
+redirect_from: /2019/06/how-I-connect-two-sites-using-pfsense-ipsec/
 ---
 
 **Challenge Summary:** I work from two different physical locations. Both locations have traditional retail Internet service providers (ISPs). What makes traveling between two locations tricky is access to local network items such as shared drives, sensor devices, servers, etc. What I really want is one big network and not have two unique networks.

@@ -3,7 +3,7 @@ title: "An application building block: unique IDs for things"
 categories: [Development]
 layout: post
 tags: dev node
-redirect_from: /2020/04/an-application-building-block-unique-ids-for-things
+redirect_from: /2020/04/an-application-building-block-unique-ids-for-things/
 ---
 
 When you start on the journey to build a new project, especially if it is API based, there is an immediate need for identification. If you are building software for humans you are going to need some type of unique identifier for all of your things.  You need something unique to relate calls back to your data.  There are a lot of options: auto-incremented numbers, GUID/UUIDs, or hashes (md5, sha).

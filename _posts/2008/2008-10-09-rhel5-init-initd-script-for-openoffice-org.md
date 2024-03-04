@@ -3,7 +3,7 @@ title: RHEL5 init (init.d) script for OpenOffice.org (2.3+)
 layout: post
 categories: [Development, Linux]
 tags: linux centos fedora
-redirect_from: /2008/10/rhel5-init-initd-script-for-openoffice-org
+redirect_from: /2008/10/rhel5-init-initd-script-for-openoffice-org/
 ---
 
 For a recent project I needed to perform document translations from DOC to PNG which requires an essential intermediate step to PDF.  The transformations required us to go to from DOC to PDF which can easily be done very nicely using openoffice 2.3 in a headless configuration.  The downside is you need a process running on a machine which you can connect to to make the transformation.

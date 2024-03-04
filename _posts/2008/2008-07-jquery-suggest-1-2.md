@@ -3,7 +3,7 @@ title: jquery.suggest 1.2
 layout: post
 categories: [Development,PHP]
 tags: php
-redirect_from: /2008/07/suggest-1-2
+redirect_from: /2008/07/suggest-1-2/
 ---
 
 A few people have contacted in the past about what I did to get IDs to work on Peter’s Script over at <a href="http://vulgarisoips.com">vulgarisoips.com</a> (<a href="http://www.vulgarisoip.com/2007/08/06/jquerysuggest-11/">see the original post here</a>).

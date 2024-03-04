@@ -3,7 +3,7 @@ title: "Adding a Pentair Screenlogic System to Home Assistant with Docker"
 categories: [Home Automation]
 layout: post
 tags: dev ha docker
-redirect_from: /2020/08/adding-pentair-screenlogic-to-home-assistant-on-docker
+redirect_from: /2020/08/adding-pentair-screenlogic-to-home-assistant-on-docker/
 ---
 
 ## Summary

@@ -3,7 +3,7 @@ title: Building an IAXModem-based HylaFax&#43; server using OpenVZ
 layout: post
 categories: [Development, Linux]
 tags: linux centos openvz
-redirect_from: /2008/11/building-an-iaxmodem-based-hylafax-server-using-openvz
+redirect_from: /2008/11/building-an-iaxmodem-based-hylafax-server-using-openvz/
 ---
 
 If you happen to have a Asterisk solution for voice on your network occasionally it is nice to be able to send faxes from your network without the need of a PSTN line at your endpoint.  At my company we do this by running a fax server on an OpenVZ VPS on the same subnet as our Asterisk PBX.  Here is how we build our fax server:

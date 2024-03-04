@@ -3,7 +3,7 @@ title: Backup Docker-based Home Assistant to S3
 categories: [Home Automation, Home Assistant]
 layout: post
 tags: home-automation linux pi
-redirect_from: /2019/09/backup-docker-based-home-assistant-to-s3
+redirect_from: /2019/09/backup-docker-based-home-assistant-to-s3/
 ---
 
 For context I run Home Assistant via Docker (*really via docker-compose*) on a [Raspberry Pi 4](https://amzn.to/2Ok2biy).  Previously I ran it on HASSIO but ran into some outage issues with HASSIO and I desired more control.

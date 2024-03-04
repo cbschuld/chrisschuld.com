@@ -3,7 +3,7 @@ title:  How to Get Modulus Info on an SSL Certificate
 layout: post
 categories: [Development, Linux]
 tags: linux
-redirect_from: /2007/07/how-to-get-modulus-info-on-an-ssl-certificate
+redirect_from: /2007/07/how-to-get-modulus-info-on-an-ssl-certificate/
 ---
 
 When your SSL keys and certificates fall out of sync let the headaches begin.

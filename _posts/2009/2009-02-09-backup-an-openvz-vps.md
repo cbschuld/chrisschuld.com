@@ -2,7 +2,7 @@
 title: Backup an OpenVZ VPS
 layout: post
 tags: openvz
-redirect_from: /2009/02/backup-an-openvz-vps
+redirect_from: /2009/02/backup-an-openvz-vps/
 ---
 
 There are a lot of ways to backup an OpenVPS without powering them down.  I have two critical VPS systems both operating phone/PBX apps (asterisk) which I need to backup and I cannot get them to backup correctly while powered up (<em>driving me nuts</em>).  So weekly (early on Sunday mornings) I backup them up by quickly powering them off; backing them up and powering them back up.

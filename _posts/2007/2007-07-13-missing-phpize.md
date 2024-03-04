@@ -3,7 +3,7 @@ title: Missing phpize?
 layout: post
 categories: [Development, Linux]
 tags: fedora php
-redirect_from: /2007/07/missing-phpize
+redirect_from: /2007/07/missing-phpize/
 ---
 
 In an attempt to add the PECL <a href="http://pecl.php.net/package/uploadprogress" target="_blank">Upload Progress</a> package, I received  the following error:

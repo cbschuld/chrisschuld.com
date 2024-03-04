@@ -2,7 +2,7 @@
 title: Common Web Banner Sizes
 layout: post
 tags:
-redirect_from: /2008/01/common-web-banner-sizes
+redirect_from: /2008/01/common-web-banner-sizes/
 ---
 
 <p>I never can find this information when I need it so I am writing it down&#58;</p>

@@ -3,7 +3,7 @@ title: Playing MP3 files in Fedora 7
 layout: post
 categories: [Development, Linux]
 tags: fedora
-redirect_from: /2007/08/playing-mp3-files-in-fedora-7
+redirect_from: /2007/08/playing-mp3-files-in-fedora-7/
 ---
 
 To play MP3 files in Fedora 7 you need to add software to your default installation:

@@ -3,7 +3,7 @@ title: Removing Images from a WordPress Post
 layout: post
 categories: [Development, WordPress]
 tags: wordpress
-redirect_from: /2008/08/removing-images-from-a-wordpress-post
+redirect_from: /2008/08/removing-images-from-a-wordpress-post/
 ---
 
 Today I ran across a unique need to remove images from a WordPress post in a specific post loop.  Because there is no way to do a **read more** excerpt while taking strict control of the raw content from `the_content()` I was limited to capturing and manipulating the content from PHP&#39;s output buffer.  My solution&#58; obtain the output from `the_content()` and remove the image tags from the post using `preg_replace()`.

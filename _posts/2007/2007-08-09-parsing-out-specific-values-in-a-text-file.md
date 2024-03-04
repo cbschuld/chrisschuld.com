@@ -3,7 +3,7 @@ title: Parsing Out Specific Values In a Text File
 layout: post
 categories: [Development, Linux]
 tags: linux regex
-redirect_from: /2007/08/parsing-out-specific-values-in-a-text-file
+redirect_from: /2007/08/parsing-out-specific-values-in-a-text-file/
 ---
 
 Another task which hits my desk often is getting "data" out of text files.  Such as names, email addresses, phone numbers, ID numbers, etc.  Here is a quick way to parse or rip out "data" from a text file.

@@ -3,7 +3,7 @@ title: Installing OpenVZ in CentOS 5.3 (64bit)
 layout: post
 categories: [Development, Linux]
 tags: centos openvz
-redirect_from: /2009/09/installing-openvz-in-centos-5-3-64bit
+redirect_from: /2009/09/installing-openvz-in-centos-5-3-64bit/
 ---
 There are a few tutorials out there on installing OpenVZ in CentOS 5.3.  Here are the steps I use to install OpenVZ on a brand new installation of CentOS 5.3:
 

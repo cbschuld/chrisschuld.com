@@ -3,7 +3,7 @@ title: EnvisaLink4 (EVL-4E) vs IT-100
 categories: [Home Automation, Alarm]
 layout: post
 tags: home-automation home-assistant dsc
-redirect_from: /2019/12/envisaink4-vs-it-100-dsc-alarm
+redirect_from: /2019/12/envisaink4-vs-it-100-dsc-alarm/
 ---
 
 The DSC alarm panel is easily one of my favorite things to use with home automation.  It is a source of inexpensive motion sensors, entry points and overall presence detection.  There are two primary ways to get signal out of the DSC alarm: the [EnvisaLink 4](https://amzn.to/2PpdjLv) and the [IT-100](https://amzn.to/35nSvt8).

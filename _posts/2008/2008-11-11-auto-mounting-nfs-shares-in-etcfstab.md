@@ -3,7 +3,7 @@ title: Auto Mounting NFS Shares in /etc/fstab
 layout: post
 categories: [Development, Linux]
 tags: linux
-redirect_from: /2008/11/auto-mounting-nfs-shares-in-etcfstab
+redirect_from: /2008/11/auto-mounting-nfs-shares-in-etcfstab/
 ---
 
 To mount an NFS share using fstab `(/etc/fstab)` you need to know a few things, the hostname or IP address of the NFS server, the share name and where you intend to mount the share at.  Next, add this line to the end of the /etc/fstab file:

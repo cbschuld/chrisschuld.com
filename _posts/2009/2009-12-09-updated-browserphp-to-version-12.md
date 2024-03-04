@@ -2,7 +2,7 @@
 title: Updated Browser.php to version 1.2
 layout: post
 tags: php
-redirect_from: /2009/12/updated-browserphp-to-version-12
+redirect_from: /2009/12/updated-browserphp-to-version-12/
 ---
 
 The browser detection project in php (<a href="http://chrisschuld.com/projects/browser-php-detecting-a-users-browser-from-php/">Browser.php</a>) has been updated to version 1.2 based on suggestions I received in the comments.  The new version is <a href="http://chrisschuld.com/projects/browser-php-detecting-a-users-browser-from-php/">available for download</a> in the project pages.
