@@ -179,7 +179,7 @@ defaults:
       layout: page
       permalink: /:title/
   - scope:
-      path: "projects"
+      path: ""
       type: projects # see `site.collections`
     values:
       layout: page
