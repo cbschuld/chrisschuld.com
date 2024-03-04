@@ -44,7 +44,7 @@ social:
     # - https://www.facebook.com/username
     # - https://www.linkedin.com/in/username
 
-google_site_verification: # fill in to your verification string
+google_site_verification: qwrt2dkNNMKY1CNDtSp0feb8apklQpQZuimnIUPtiSQ
 
 # ↑ --------------------------
 # The end of `jekyll-seo-tag` settings
@@ -54,10 +54,10 @@ analytics:
   google:
     id: G-PRS8CBQ72S
 
-# google_analytics:
-#   id: G-PRS8CBQ72S
-#   tracking_id: UA-2228390-1
-#   measurement_id: G-PRS8CBQ72S
+google_analytics:
+  id: G-PRS8CBQ72S
+  tracking_id: UA-2228390-1
+  measurement_id: G-PRS8CBQ72S
 
 goatcounter:
   id: # fill in your Goatcounter ID
