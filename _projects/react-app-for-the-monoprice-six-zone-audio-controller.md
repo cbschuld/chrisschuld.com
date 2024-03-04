@@ -1,9 +1,7 @@
 ---
-title: React WebApp for the Monoprice Six Zone Audio Controller
+title: React and TypeScript WebApp/Interface for the Monoprice Six Zone Amp/Controller
 layout: page
 ---
-
-# React and TypeScript WebApp/Interface for the Monoprice Six Zone Amp/Controller
 
 <a class="openSourceLink" href="https://github.com/cbschuld/monoprice-multizone-interface"><i class="fab fa-github" aria-hidden="true"></i> Github</a>
 

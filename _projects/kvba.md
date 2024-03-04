@@ -5,8 +5,6 @@ shortname: KVBA
 description: a key/value serverless, lambda-based storage system
 ---
 
-# KVBA (Key / Value Storage with Basic Auth)
-
 [View KVBA on GitHub](https://github.com/cbschuld/kvba)
 
 > A [serverless](https://serverless.com/) based AWS lambda and api gateway enabled key/value store with Basic HTTP Authorization and weak obfuscated account creation.  All keys are partitioned by user scope thus each user maintains their own domain of keys.  Cross-Origin resource sharing (CORS) is also available via the serverless to add protection for call origin.
