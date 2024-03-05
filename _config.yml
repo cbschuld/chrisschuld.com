@@ -45,6 +45,12 @@ social:
     # - https://www.linkedin.com/in/username
 
 google_site_verification: qwrt2dkNNMKY1CNDtSp0feb8apklQpQZuimnIUPtiSQ
+bing_site_verification: D069061B06845CC35452CF7CED0C74B6
+
+webmaster_verifications:
+  google: qwrt2dkNNMKY1CNDtSp0feb8apklQpQZuimnIUPtiSQ
+  bing: D069061B06845CC35452CF7CED0C74B6
+
 
 # ↑ --------------------------
 # The end of `jekyll-seo-tag` settings
