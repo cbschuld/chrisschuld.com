@@ -50,6 +50,10 @@ google_site_verification: qwrt2dkNNMKY1CNDtSp0feb8apklQpQZuimnIUPtiSQ
 # The end of `jekyll-seo-tag` settings
 
 # Web Analytics Settings
+google_analytics:
+  id: G-PRS8CBQ72S
+  tracking_id: UA-2228390-1
+  measurement_id: G-PRS8CBQ72S
 analytics:
   google:
     id: G-PRS8CBQ72S
