@@ -12,6 +12,11 @@ Please see the [theme's docs](https://github.com/cotes2020/jekyll-theme-chirpy#d
 bundle exec jekyll s
 ```
 
+### 3rd Parties
+
+[Google Search Console](https://search.google.com/search-console)
+[Bing Webmaster Tools](https://www.bing.com/webmasters)
+
 ## License
 
 This work is published under [MIT][mit] License.
