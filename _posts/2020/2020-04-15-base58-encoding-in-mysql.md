@@ -197,6 +197,6 @@ This allows me to easily create UUIDs at the dB level:
 
 ## Caveats / Knowns
 
-I am confident this is not the best way to do this and I am excited to discuss better approaches with anyone!  Just [contact me](/contact).
+I am confident this is not the best way to do this and I am excited to discuss better approaches with anyone!
 
 The use of `uuid_v4_no_dashes` in the form that Ssvac suggested may create collisions as it's not really a true UUID construction.  Over 6M rows using true UUID()s I had no collisions.  Using Ssvac's solution I noted three collisions.
