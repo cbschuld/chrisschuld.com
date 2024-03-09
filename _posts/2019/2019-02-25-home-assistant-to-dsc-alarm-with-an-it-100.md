@@ -210,7 +210,7 @@ Create a file in your Home Assistant that looks like this (but include your zone
       name: 'Alarm'
 ```
 
-As an example here is a [24 zone sample file](/public/documents/envisalink.txt).
+As an example here is a [24 zone sample file](/assets/documents/envisalink.txt).
 
 Next, add the following to your `configuration.yaml` file:
 
