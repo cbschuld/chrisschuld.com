@@ -30,7 +30,7 @@ To control the system from my phone I needed to link a few things together.  In 
 [USB to DB9 Serial Cable](https://amzn.to/2Xk5Di8)                                                    | $~10
 Total                                                                                                 | $~1250
 
- src="https://s3-us-west-2.amazonaws.com/chrisschuld.com/images/polk-80i.png" align="right" width="300"/>
+ ![polk 80 speakers](https://s3-us-west-2.amazonaws.com/chrisschuld.com/images/polk-80i.png){: .right}
 Then I needed speakers; I went with the 8" and 6" in-wall / in-ceiling speakers from Polk.  They sound great for their price point.  I had at least two of these in each room and in three areas I bridged four of them together in mono (more on this later).
 
 [Polk Audio RC80i 8" In-Ceiling](https://amzn.to/2KkF1rw) | $129.99
@@ -41,7 +41,7 @@ Total for  *ALL* of the speakers                          | ~$1950
 
 Overview of the System
 ----------------------
- src="https://s3-us-west-2.amazonaws.com/chrisschuld.com/images/rear-of-mono-price-amp.png" align="right" width="300"/>
+![amp](https://s3-us-west-2.amazonaws.com/chrisschuld.com/images/rear-of-mono-price-amp.png){: .right}
 All of the components for my system are located in a single rack and closet.  The multi-zone amplifier controllers and the Raspberry Pi all live in the same rack.  Each room has a single keypad wired back to the closet via CAT6 cable.  Each speaker set (two or four speakers) are wired via 14guage speaker wire.  Two amps are linked via the linking ribbon cable that shipped with the unit and A raspberry.
 
 For controlling I used a Raspberry Pi as a decorator in front of the controllers.  I connected it via USB to DB9 and I run on service on the Raspberry Pi which provides a web service for the controller amp.  This way I can interface with the web service to control and gain status of the controllers all via the web service.
@@ -49,7 +49,7 @@ For controlling I used a Raspberry Pi as a decorator in front of the controllers
 
 Wiring
 ------
- src="https://s3-us-west-2.amazonaws.com/chrisschuld.com/images/keypad-wiring.png" align="right" width="300"/>
+![keypad](https://s3-us-west-2.amazonaws.com/chrisschuld.com/images/keypad-wiring.png){: .right}
 I was lucky enough to build out this system while I was building my own home so I had skelton walls when I wired the system.  I did not have my system selected quite yet when I wired my home and that caused me to wire a bit more aggressively.  Here is how I wired it and later I will explain how I could have saved a lot of audio wire.
 
 I wired 4 conductor (2 channel), 14 gauge speaker wire from the closet to each keypad location, then switched cables and ran 2 conductor 14 gauge speaker wire from the keypad to each speaker location.  Additionally, I ran CAT6 network cable from the rack to each keypad location.
@@ -65,18 +65,18 @@ I could have saved a lot of wire by *not* wiring to the keypads and then going d
 
 Marking the Cables and Completing the Ends
 ------------------------------------------
- src="https://s3-us-west-2.amazonaws.com/chrisschuld.com/images/wire-labels.png" align="right"/>
+![labels](https://s3-us-west-2.amazonaws.com/chrisschuld.com/images/wire-labels.png){: .right}
 I labeled each cable with shrink tube labels (which are my absolute favorite way to label cables).  I love my [DYMO labeler](https://amzn.to/2Xk18UI).  The result is a clean and highly visible cable label.  Six months after you finish your install you are going to forget every detail about which able went where: label them!  I used the [Dymo 3/8" black-on-white Industrial Heat-Shrink Labels](https://amzn.to/31A9QxF).  They work great and I melted the suckers with my favorite [heat gun](https://amzn.to/2RiXjtR) that's worth every cent you pay for it.
 
- src="https://s3-us-west-2.amazonaws.com/chrisschuld.com/images/wire-crimp.png" align="right"/>
+![crimp](https://s3-us-west-2.amazonaws.com/chrisschuld.com/images/wire-crimp.png){: .right}
 All of the speaker wire is stranded (or it should be).  When you terminate the wire you really should terminate it into a wire ferrule.  A wire ferrule or "end terminal" is a very clean way to maintain the bundle of the strands of cable and convert them to a solid conductor to place into the terminating block.
 
 Obtain a set of ferrules that will go into the terminating block.  Prepare the cables, crimp on the end terminates and add them into the terminating blocks.  The end result is an incredibly clean connection to your speakers.
- src="https://s3-us-west-2.amazonaws.com/chrisschuld.com/images/wire-to-end-terminal.png"/>
+![wire end terminals](https://s3-us-west-2.amazonaws.com/chrisschuld.com/images/wire-to-end-terminal.png)
 
 You only need a [crimper](https://amzn.to/2Rjv9io) and the [wire ferrules](https://amzn.to/2Ihvr6q) to pull this off and it creates a far superior termination rather than just shoving the stranded wires into the termination block.
 
- src="https://s3-us-west-2.amazonaws.com/chrisschuld.com/images/back-of-controller.png"/>
+![back of monoprice controller](https://s3-us-west-2.amazonaws.com/chrisschuld.com/images/back-of-controller.png)
 
 
 Controlling the Controller
