@@ -12,7 +12,7 @@ Creating and managing SSL certificates in AWS is crucial for securing API Gatewa
 When we talk about domains for certificates we view them as either a root or a wildcard:
 
 - **Root Domain Certificate**: When a certificate is issued for the root domain, such as domain.com, it means that the certificate is explicitly valid for that domain only. It ensures secure connections to the website accessed directly via the root domain.
-- **Wildcard Domain Certificate**: A certificate issued for a wildcard domain, denoted as *.domain.com, covers the root domain and all its subdomains at one level. This means it can secure connections not just to domain.com but also to any subdomain like www.domain.com, mail.domain.com, store.domain.com, etc. The asterisk (*) acts as a placeholder for any subdomain name.
+- **Wildcard Domain Certificate**: A certificate issued for a wildcard domain, denoted as &ast;.domain.com, covers the root domain and all its subdomains at one level. This means it can secure connections not just to domain.com but also to any subdomain like www.domain.com, mail.domain.com, store.domain.com, etc. The asterisk (*) acts as a placeholder for any subdomain name.
 
 ## Build it the Easy Way (for domains that will have a wildcard)
 
