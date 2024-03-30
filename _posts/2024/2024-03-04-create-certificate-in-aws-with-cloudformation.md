@@ -12,7 +12,7 @@ Creating and managing SSL certificates in AWS is crucial for securing API Gatewa
 When we talk about domains for certificates we view them as either a root or a wildcard:
 
 - **Root Domain Certificate**: When a certificate is issued for the root domain, such as domain.com, it means that the certificate is explicitly valid for that domain only. It ensures secure connections to the website accessed directly via the root domain.
-- **Wildcard Domain Certificate**: A certificate issued for a wildcard domain, denoted as &ast;.domain.com, covers the root domain and all its subdomains at one level. This means it can secure connections not just to domain.com but also to any subdomain like www.domain.com, mail.domain.com, store.domain.com, etc. The asterisk (*) acts as a placeholder for any subdomain name.
+- **Wildcard Domain Certificate**: A certificate issued for a wildcard domain, denoted as &ast;.domain.com, covers the root domain and all its subdomains at one level. This means it can secure connections not just to domain.com but also to any subdomain like www.domain.com, mail.domain.com, store.domain.com, etc. The asterisk (&ast;) acts as a placeholder for any subdomain name.
 
 ## Build it the Easy Way (for domains that will have a wildcard)
 
@@ -22,7 +22,7 @@ You can use a script I created to automate all of this for you.  First we'll dow
 # Obtain the script
 wget -O create-certificate.sh "https://raw.githubusercontent.com/cbschuld/aws-cf-static-website-hosting-s3-cloudfront-route53/main/create-certificate-with-wildcard.sh"
 # Run the script
-/bin/bash ./create-certificate.sh
+/bin/bash create-certificate.sh
 ```
 
 ## The Detailed Way
@@ -63,8 +63,8 @@ You will need the `HostedZoneId` which you can get from the command line or from
 
 ```sh
 REGION=us-east-1
-PROFILE_NAME="getsixdegrees"
-DOMAIN_NAME="getsixdegrees.com"
+PROFILE_NAME="PROFILE"
+DOMAIN_NAME="DOMAIN"
 STACK_NAME=$(echo "$DOMAIN_NAME" | sed 's/\./-/g')-certificate
 HOSTED_ZONE=$(aws route53 list-hosted-zones-by-name --profile="$PROFILE_NAME" |
   jq --arg name "$DOMAIN_NAME." -r '.HostedZones | .[] | select(.Name==$name) | .Id' |
