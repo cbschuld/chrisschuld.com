@@ -1,5 +1,6 @@
 ---
 title: "Hosting Gatsby Sites on AWS CloudFront"
+description: "Host a Gatsby site on AWS CloudFront with S3 and Lambda@Edge. Solve the AccessDenied error with a simple origin request mutation function."
 categories: [AWS]
 layout: post
 tags: dev gatsby aws

@@ -1,5 +1,6 @@
 ---
 title: Installing Sun's Java on CentOS 5.2
+description: "Step-by-step guide to installing Sun's Java JDK on CentOS 5.2 using the binary package from Sun and configuring alternatives for java."
 layout: post
 categories: [Development, Linux]
 tags: centos

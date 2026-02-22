@@ -1,5 +1,6 @@
 ---
 title: Updating Ghostscript on CentOS 5.2 &#40;ghostscript 8.63&#41;
+description: "Upgrade Ghostscript from 8.15 to 8.63 on CentOS 5.2 or RHEL5 with pre-built RPMs including required Jasper library dependencies."
 layout: post
 categories: [Development, Linux]
 tags: linux centos

@@ -1,5 +1,6 @@
 ---
 title: How to connect two pfSense routers via IPSec
+description: "Step-by-step guide to connecting two pfSense routers with an IPSec site-to-site VPN tunnel. Includes Phase 1, Phase 2 and firewall rule setup."
 categories: [Development]
 layout: post
 tags: networking pfsense

@@ -1,5 +1,6 @@
 ---
 title: "Retrieving Parameters in the AWS Parameter Store with Node/Typescript"
+description: "Retrieve secrets from AWS SSM Parameter Store using Node.js and TypeScript. A simple helper library for encrypted and plain parameter lookups."
 categories: [AWS]
 layout: post
 tags: dev aws node serverless

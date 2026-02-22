@@ -1,0 +1,71 @@
+---
+layout: default
+refactor: true
+---
+
+{% include lang.html %}
+
+<div class="landing px-xl-1">
+
+  <section class="landing-section">
+    <h2 class="landing-section__title">
+      <i class="fas fa-rocket"></i> Products
+    </h2>
+    <div class="product-grid">
+      {% for product in site.data.products %}
+        <a href="{{ product.url }}" class="product-card" target="_blank" rel="noopener">
+          <div class="product-card__header">
+            {% if product.logo %}
+              <img
+                src="{{ product.logo }}"
+                alt="{{ product.name }}"
+                class="product-card__logo"
+                width="32"
+                height="32"
+                loading="lazy"
+              />
+            {% endif %}
+            <h3 class="product-card__name">{{ product.name }}</h3>
+          </div>
+          <p class="product-card__tagline">{{ product.tagline }}</p>
+          <p class="product-card__description">{{ product.description }}</p>
+          <div class="product-card__badges">
+            {% for platform in product.platforms %}
+              <span class="badge">{{ platform }}</span>
+            {% endfor %}
+            {% if product.status == 'coming_soon' %}
+              <span class="badge badge--coming-soon">Coming Soon</span>
+            {% endif %}
+          </div>
+        </a>
+      {% endfor %}
+    </div>
+  </section>
+
+  <hr class="section-divider" />
+
+  <section class="landing-section">
+    <h2 class="landing-section__title">
+      <i class="fab fa-github"></i> Open Source
+    </h2>
+    <div class="oss-grid">
+      {% for project in site.data.opensource %}
+        <a href="{{ project.github }}" class="oss-card" target="_blank" rel="noopener">
+          <h3 class="oss-card__name">
+            {{ project.name }}
+            {% if project.status == 'eol' %}
+              <span class="badge badge--coming-soon" style="font-size:0.7rem;margin-left:0.5rem;">EOL</span>
+            {% endif %}
+          </h3>
+          <p class="oss-card__description">{{ project.description }}</p>
+          <div class="oss-card__tech">
+            {% for t in project.tech %}
+              <span class="oss-card__tag">{{ t }}</span>
+            {% endfor %}
+          </div>
+        </a>
+      {% endfor %}
+    </div>
+  </section>
+
+</div>

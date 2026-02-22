@@ -1,5 +1,6 @@
 ---
 title: Home Assistant with a DSC Alarm, an IT-100 board and a Raspberry Pi
+description: "Connect a DSC alarm to Home Assistant using an IT-100 board and Raspberry Pi. Includes setup for the Envisalink emulator and zone configuration."
 categories: [Home Automation, Alarm]
 layout: post
 tags: home-automation dsc

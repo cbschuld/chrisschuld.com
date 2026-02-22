@@ -1,5 +1,6 @@
 ---
 title: RHEL5 init (init.d) script for OpenOffice.org (2.3+)
+description: "An init.d startup script for running OpenOffice.org 2.3+ in headless mode on RHEL5 for server-side document conversion to PDF and PNG."
 layout: post
 categories: [Development, Linux]
 tags: linux centos fedora

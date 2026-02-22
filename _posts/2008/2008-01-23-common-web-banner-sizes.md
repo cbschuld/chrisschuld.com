@@ -1,5 +1,6 @@
 ---
 title: Common Web Banner Sizes
+description: "A quick reference guide to common web banner sizes including banner, leaderboard, skyscraper, rectangle, and square ad dimensions in pixels."
 layout: post
 tags:
 redirect_from: /2008/01/common-web-banner-sizes/

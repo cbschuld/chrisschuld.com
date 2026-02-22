@@ -16,10 +16,11 @@ timezone: America/Phoenix
 
 title: Chris Schuld # the main title
 
-tagline: my notes on software # it will display as the sub-title
+tagline: SaaS Entrepreneur & Software Engineer # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
-  SaaS entrepreneur. Intrigued by software engineering, software as a business and aviation.
+  Chris Schuld builds SaaS products and writes about software engineering,
+  AWS, TypeScript, and building software businesses.
 
 # Fill in the protocol & hostname for your site.
 # e.g. 'https://username.github.io', note that it does not end with a '/'.
@@ -40,9 +41,7 @@ social:
     # The first element serves as the copyright owner's link
     - https://twitter.com/cbschuld # change to your twitter homepage
     - https://github.com/cbschuld # change to your github homepage
-    # Uncomment below to add more social links
-    # - https://www.facebook.com/username
-    # - https://www.linkedin.com/in/username
+    - https://www.linkedin.com/in/cbschuld
 
 google_site_verification: qwrt2dkNNMKY1CNDtSp0feb8apklQpQZuimnIUPtiSQ
 bing_site_verification: D069061B06845CC35452CF7CED0C74B6
@@ -93,7 +92,7 @@ avatar: /assets/img/chris-schuld.webp
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
-social_preview_image: # string, local or CORS resources
+social_preview_image: /assets/img/social-preview.png
 
 # boolean type, the global switch for TOC in posts.
 toc: true
@@ -215,6 +214,8 @@ exclude:
   - LICENSE
   - rollup.config.js
   - package*.json
+  - docker-compose.yml
+  - Dockerfile
 
 jekyll-archives:
   enabled: [categories, tags]

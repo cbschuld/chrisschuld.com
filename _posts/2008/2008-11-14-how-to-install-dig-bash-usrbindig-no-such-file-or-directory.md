@@ -1,5 +1,6 @@
 ---
 title: How to install &quot;dig&quot;&#58; -bash&#58; &#47;usr&#47;bin&#47;dig&#58; No such file or directory
+description: "Fix the 'No such file or directory' error for dig on CentOS by installing the bind-utils package via yum or RPM with direct download links."
 layout: post
 categories: [Development, Linux]
 tags: centos

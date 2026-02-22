@@ -1,5 +1,6 @@
 ---
 title: rpmdb&#58; Lock table is out of available locker entries
+description: "Fix the rpmdb lock table out of available locker entries error by rebuilding the damaged Berkeley database files used by RPM and yum."
 layout: post
 categories: [Development, Linux]
 tags: linux fedora

@@ -1,5 +1,6 @@
 ---
 title: Removing Images from a WordPress Post
+description: "Remove images from WordPress post content using PHP output buffering and preg_replace to strip img tags from the_content() output."
 layout: post
 categories: [Development, WordPress]
 tags: wordpress

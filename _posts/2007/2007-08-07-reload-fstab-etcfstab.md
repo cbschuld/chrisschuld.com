@@ -1,5 +1,6 @@
 ---
 title: Reload fstab (/etc/fstab)
+description: "Reload new entries in /etc/fstab without rebooting your Linux server. Use the mount -a command to quickly mount all new filesystem entries."
 layout: post
 categories: [Development, Linux]
 tags: linux fedora

@@ -1,5 +1,6 @@
 ---
 title: Building an IAXModem-based HylaFax&#43; server using OpenVZ
+description: "Build a HylaFAX fax server with IAXModem on an OpenVZ VPS running CentOS 5 to send faxes over Asterisk without a dedicated PSTN line."
 layout: post
 categories: [Development, Linux]
 tags: linux centos openvz

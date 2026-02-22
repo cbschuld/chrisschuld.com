@@ -1,5 +1,6 @@
 ---
 title: The Ultimate 'vi' Shortcut List
+description: "A growing collection of essential vi editor shortcuts and commands, including how to remove every other line and other powerful text editing tricks."
 layout: post
 categories: [Development, Linux]
 tags: linux

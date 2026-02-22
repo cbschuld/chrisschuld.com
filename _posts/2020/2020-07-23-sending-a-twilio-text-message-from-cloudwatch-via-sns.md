@@ -1,5 +1,6 @@
 ---
 title: "Send an SMS message with Twilio from a CloudWatch Alarm via SNS (through serverless Lambda)"
+description: "Send SMS alerts from AWS CloudWatch alarms using Twilio via SNS and a serverless Lambda function. Includes TypeScript code and serverless config."
 categories: [AWS]
 layout: post
 tags: dev twilio aws serverless

@@ -1,5 +1,6 @@
 ---
 title: Programming a DSC 1832 Alarm (or re-programming)
+description: "Step-by-step guide to factory reset and reprogram a DSC PC1832 alarm system including zones, keypads, partitions and installer codes."
 categories: [Home Automation, Alarm]
 layout: post
 tags: home-automation dsc

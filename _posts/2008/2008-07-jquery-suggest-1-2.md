@@ -1,5 +1,6 @@
 ---
 title: jquery.suggest 1.2
+description: "Updated jquery.suggest plugin (v1.2) adding ID support, custom DOM attachment, and key-value data pairs for database-backed autocomplete."
 layout: post
 categories: [Development,PHP]
 tags: php

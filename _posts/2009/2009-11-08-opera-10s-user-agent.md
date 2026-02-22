@@ -1,5 +1,6 @@
 ---
 title: Opera 10's User Agent
+description: "Opera 10 reports version 9.8 in its user agent string with the real version appended at the end. Learn how Browser.php v1.6 handles this quirk."
 layout: post
 categories: [Development, Browsers]
 tags: php

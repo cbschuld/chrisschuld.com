@@ -1,5 +1,6 @@
 ---
 title: Browser.php updated to v1.6
+description: "Browser.php v1.6 released with numerous updates to the PHP browser and platform detection class. Download the latest version for improved accuracy."
 layout: post
 tags: php
 redirect_from: /2009/11/browser-php-updated-to-v1-6/

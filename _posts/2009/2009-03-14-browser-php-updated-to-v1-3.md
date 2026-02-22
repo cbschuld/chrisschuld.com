@@ -1,5 +1,6 @@
 ---
 title: Browser.php updated to v1.3
+description: "Browser.php v1.3 released with added support for iPod and iPhone detection as both browsers and platforms in the PHP user agent detection class."
 layout: post
 tags: php
 redirect_from: /2009/03/browser-php-updated-to-v1-3/

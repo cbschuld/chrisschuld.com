@@ -1,5 +1,6 @@
 ---
 title: Auto Mounting NFS Shares in /etc/fstab
+description: "How to auto-mount NFS shares at boot by adding entries to /etc/fstab with proper options for rsize, wsize, timeout, and interrupt settings."
 layout: post
 categories: [Development, Linux]
 tags: linux

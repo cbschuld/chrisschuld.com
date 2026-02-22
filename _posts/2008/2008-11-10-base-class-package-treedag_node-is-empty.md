@@ -1,5 +1,6 @@
 ---
 title: Base class package &quot;Tree&#58;&#58;DAG_Node&quot; is empty
+description: "Fix the Perl error 'Base class package Tree::DAG_Node is empty' in XML Validator by installing the perl-DAG_Node package via yum."
 layout: post
 categories: [Development, Perl]
 tags: linux perl

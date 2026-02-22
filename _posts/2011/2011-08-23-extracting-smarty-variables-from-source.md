@@ -1,5 +1,6 @@
 ---
 title: Extracting Smarty variables from source
+description: "Extract all Smarty template variables from source files using a simple grep command with a regex pattern to find every variable reference in .tpl files."
 layout: post
 categories: [Development]
 tags: smarty

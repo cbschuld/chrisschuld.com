@@ -1,5 +1,6 @@
 ---
 title: MySQL Backup
+description: "Automate MySQL database backups with this shell script that dynamically discovers and dumps all databases without manual configuration changes."
 layout: post
 categories: [Development, Databases]
 tags: mysql php linux

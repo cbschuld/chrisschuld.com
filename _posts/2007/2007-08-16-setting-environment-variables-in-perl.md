@@ -1,5 +1,6 @@
 ---
 title: Setting Environment Variables in Perl
+description: "Set environment variables in Perl using the %ENV hash instead of system export calls. Changes propagate to child processes and system() commands."
 layout: post
 categories: [Development, Linux]
 tags: perl

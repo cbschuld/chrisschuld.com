@@ -1,5 +1,6 @@
 ---
 title: Installing PBX in a Flash (PIAF) on an OpenVZ VPS
+description: "Complete guide to installing PBX in a Flash (PIAF) with Asterisk on an OpenVZ VPS using CentOS 5, including FreePBX and SIP configuration."
 layout: post
 categories: [Development, Linux]
 tags: linux centos openvz asterisk

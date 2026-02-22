@@ -1,5 +1,6 @@
 ---
 title: Stopping the screen blanking on the command line in linux
+description: "Prevent Linux terminal screen blanking and power save mode using setterm commands to keep the console display always on for monitoring."
 layout: post
 categories: [Development, Linux]
 tags: linux

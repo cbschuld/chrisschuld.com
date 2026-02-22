@@ -1,5 +1,6 @@
 ---
 title: How to Re-number an OpenVZ Container from one CTID to another
+description: "Quick guide to re-numbering an OpenVZ container CTID using vzctl checkpoint, dump, and restore commands to migrate from one CTID to another."
 layout: post
 categories: [Development, Linux]
 tags: linux centos

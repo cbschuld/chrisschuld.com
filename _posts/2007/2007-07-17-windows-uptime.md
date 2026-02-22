@@ -1,5 +1,6 @@
 ---
 title: Windows "uptime"
+description: "Check how long a Windows server has been running since its last reboot using the net statistics server command as an alternative to Linux uptime."
 layout: post
 categories: [Development, Windows]
 tags: windows

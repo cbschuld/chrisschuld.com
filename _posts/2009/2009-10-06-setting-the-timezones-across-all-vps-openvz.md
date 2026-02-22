@@ -1,5 +1,6 @@
 ---
 title: Setting the Timezones across all VPS's (OpenVZ)
+description: "A simple bash script to set the timezone across all running OpenVZ VPS containers from the host node using vzlist and symbolic links to zoneinfo."
 layout: post
 categories: [Development, Linux]
 tags: openvz

@@ -1,5 +1,6 @@
 ---
 title: Using OpenVPN to create a simple VPN for AWS with SSL/Let's Encrypt
+description: "Set up an affordable OpenVPN server on AWS with Let's Encrypt SSL certificates. A step-by-step guide to VPC access via a t3.nano instance."
 categories: [AWS]
 layout: post
 tags: aws

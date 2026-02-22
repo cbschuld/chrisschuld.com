@@ -1,5 +1,6 @@
 ---
 title: Creating an SSL Certificate in AWS with CloudFormation
+description: "Automate SSL certificate creation in AWS using CloudFormation with DNS validation. Includes wildcard support and a ready-to-use shell script."
 categories: [AWS]
 layout: post
 tags: aws ssl

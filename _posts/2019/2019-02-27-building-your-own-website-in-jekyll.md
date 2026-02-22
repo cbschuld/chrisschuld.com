@@ -1,5 +1,6 @@
 ---
 title: Building your own Personal Website in Jekyll
+description: "Build a personal blog with Jekyll, Markdown and Docker. Host it free on GitHub Pages with HTTPS and your own domain name. Step-by-step guide."
 categories: [Development]
 tags: jekyll blog website docker
 redirect_from: /2019/02/building-your-own-website-in-jekyll/

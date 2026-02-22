@@ -1,5 +1,6 @@
 ---
 title: Backup an OpenVZ VPS
+description: "How to backup an OpenVZ VPS using vzdump with a simple shell script that stops, dumps, compresses, and copies backup images to a remote NAS."
 layout: post
 tags: openvz
 redirect_from: /2009/02/backup-an-openvz-vps/

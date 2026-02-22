@@ -1,5 +1,6 @@
 ---
 title: Removing everything BUT Images in a WordPress Post
+description: "PHP code snippet to extract and display only images from a WordPress post using preg_match_all, stripping all other content within the Loop."
 layout: post
 categories: [Development, WordPress]
 tags: wordpress

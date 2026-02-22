@@ -1,5 +1,6 @@
 ---
 title: Setting up an OpenVZ VPS DNS Server in CentOS 5.3
+description: "Build a DNS server quickly using OpenVZ and CentOS 5.3 with Bind and Webmin for easy zone management. Includes VPS creation and package install steps."
 layout: post
 categories: [Development, Linux]
 tags: centos openvz

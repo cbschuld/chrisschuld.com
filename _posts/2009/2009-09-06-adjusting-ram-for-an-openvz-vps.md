@@ -1,5 +1,6 @@
 ---
 title: Adjusting RAM for an OpenVZ VPS
+description: "Ready-to-use vzctl commands for adjusting guaranteed and burstable RAM on OpenVZ VPS containers, with examples from 64MB up to 2GB configurations."
 layout: post
 categories: [Development, Linux]
 tags: openvz

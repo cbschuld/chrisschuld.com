@@ -1,5 +1,6 @@
 ---
 title: Installing a standard Bind DNS server on an VPS (openvz)
+description: "Step-by-step guide to installing and configuring a Bind DNS server on an OpenVZ VPS running CentOS 5, including setup commands and named.conf tips."
 layout: post
 categories: [Development, Linux]
 tags: linux centos

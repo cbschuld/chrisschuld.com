@@ -1,5 +1,6 @@
 ---
 title: "Installing an MQTT Broker with Synology (Mosquitto on Docker)"
+description: "Install Eclipse Mosquitto MQTT broker on a Synology NAS using Docker. A visual step-by-step guide for home automation messaging setup."
 categories: [Development, Docker]
 layout: post
 tags: dev ha docker

@@ -1,5 +1,6 @@
 ---
 title: Network Scanner with Fujitsu ScanSnap and a Raspberry Pi
+description: "Turn a Fujitsu ScanSnap S1500 into a headless network scanner using a Raspberry Pi with SANE, scanbd, and Samba for shared PDF scanning."
 categories: [Development, Raspberry Pi]
 layout: post
 tags: pi linux home-automation

@@ -1,5 +1,6 @@
 ---
 title: Setting VPS Disk Space with OpenVZ the &quot;easy way&quot;
+description: "Learn how to quickly adjust disk space and inodes for an OpenVZ VPS using vzctl commands, with a clear explanation of diskspace and diskinodes params."
 layout: post
 categories: [Development, Linux]
 tags: openvz

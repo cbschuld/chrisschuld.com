@@ -1,5 +1,6 @@
 ---
 title: Dumping Addresses from phplist
+description: "SQL query to export email addresses with first and last names from phplist, useful when migrating away from phplist to another email platform."
 layout: post
 categories: [Development, PHP]
 tags: php

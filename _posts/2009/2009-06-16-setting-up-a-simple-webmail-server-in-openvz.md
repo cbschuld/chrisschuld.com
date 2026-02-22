@@ -1,5 +1,6 @@
 ---
 title: Setting up a simple Web/Mail Server in OpenVZ
+description: "How to set up a web and mail server inside an OpenVZ VPS on CentOS with Apache, PHP, MySQL, and Postfix using the REMI repository for packages."
 layout: post
 categories: [Development, Linux]
 tags: php

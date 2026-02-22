@@ -1,5 +1,6 @@
 ---
 title: Backup Docker-based Home Assistant to S3
+description: "Automate backups of your Docker-based Home Assistant configuration to AWS S3 with a simple bash script and cron job on a Raspberry Pi."
 categories: [Home Automation, Home Assistant]
 layout: post
 tags: home-automation linux pi

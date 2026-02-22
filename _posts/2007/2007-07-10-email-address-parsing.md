@@ -1,5 +1,6 @@
 ---
 title: Email Address Parsing
+description: "Learn how to parse and extract unique email addresses from text files exported from Outlook using grep and Perl-compatible regular expressions."
 layout: post
 categories: [Development, Linux]
 tags: linux regex

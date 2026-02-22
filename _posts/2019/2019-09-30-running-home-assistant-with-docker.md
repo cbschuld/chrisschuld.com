@@ -1,5 +1,6 @@
 ---
 title: Running Home Assistant with Docker (docker-compose)
+description: "Run Home Assistant on a Raspberry Pi 4 using Docker Compose with Z-Wave support, automatic startup via systemd and health check monitoring."
 categories: [Development, Home Assistant]
 layout: post
 tags: docker home-automation home-assistant

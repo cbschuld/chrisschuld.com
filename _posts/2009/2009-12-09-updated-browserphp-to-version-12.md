@@ -1,5 +1,6 @@
 ---
 title: Updated Browser.php to version 1.2
+description: "Browser.php updated to version 1.2 with improvements based on community feedback. Download the latest PHP browser detection class from the project page."
 layout: post
 tags: php
 redirect_from: /2009/12/updated-browserphp-to-version-12/

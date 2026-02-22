@@ -1,5 +1,6 @@
 ---
 title: Removing Images in a WordPress Post (Revisited)
+description: "A cleaner PHP method for removing images from WordPress posts using preg_replace and get_the_content instead of output buffering. One line of code."
 layout: post
 tags: wordpress php
 redirect_from: /2009/04/removing-images-in-a-wordpress-post-revisited/

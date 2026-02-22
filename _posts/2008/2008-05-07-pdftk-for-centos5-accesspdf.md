@@ -1,5 +1,6 @@
 ---
 title: pdftk for CentOS5 (AccessPDF for CentOS 5)
+description: "How to install pdftk (AccessPDF) on CentOS 5 with pre-built RPM packages for both 32-bit and 64-bit systems when repos fall short."
 layout: post
 categories: [Development, Linux]
 tags: linux centos

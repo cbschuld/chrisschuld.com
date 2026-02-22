@@ -1,5 +1,6 @@
 ---
 title: The non-breakable Dash / Hyphen
+description: "Learn how to use the non-breaking hyphen HTML character entity (&#8209;) to prevent unwanted line breaks at dash characters in your web pages."
 layout: post
 categories: [Development]
 tags: xhtml

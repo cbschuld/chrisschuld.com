@@ -1,5 +1,6 @@
 ---
 title: Search and Replace in Files
+description: "Learn how to perform a search and replace across multiple files using a simple Perl one-liner with regex support from the command line."
 layout: post
 categories: [Development, Linux]
 tags: linux perl regex

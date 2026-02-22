@@ -1,5 +1,6 @@
 ---
 title: Using Docker to run phpMyAdmin on local or remote databases
+description: "Run phpMyAdmin instantly with Docker against any local or remote MySQL, MariaDB or Aurora database. No PHP setup required, just one command."
 categories: [Development,Docker]
 layout: post
 tags: docker php database

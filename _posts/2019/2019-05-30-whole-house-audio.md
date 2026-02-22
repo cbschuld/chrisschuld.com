@@ -1,5 +1,6 @@
 ---
 title: Whole House Audio - Small Price / Big Value
+description: "Build a 12-zone whole house audio system for under $3200 using Monoprice multi-zone amps, Polk speakers and a Raspberry Pi for remote control."
 categories: [Home Automation]
 layout: post
 tags: home-automation audio

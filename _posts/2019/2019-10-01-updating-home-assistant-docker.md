@@ -1,5 +1,6 @@
 ---
 title: Updating Home Assistant with Docker
+description: "Update Home Assistant running on Docker in three simple commands using Docker Compose. Includes a reusable update script for quick upgrades."
 categories: [Development, Home Assistant]
 layout: post
 tags: docker home-automation home-assistant

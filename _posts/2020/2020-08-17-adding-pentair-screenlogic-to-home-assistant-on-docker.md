@@ -1,5 +1,6 @@
 ---
 title: "Adding a Pentair Screenlogic System to Home Assistant with Docker"
+description: "Integrate Pentair ScreenLogic pool and spa controls into Home Assistant using Docker, MQTT, and node-screenlogic for full pool automation."
 categories: [Home Automation]
 layout: post
 tags: dev ha docker

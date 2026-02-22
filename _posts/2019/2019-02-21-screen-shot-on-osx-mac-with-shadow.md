@@ -1,5 +1,6 @@
 ---
 title:  Take a Screen Shot on OSX (Mac) with a perfect shadow
+description: "Learn how to take a screenshot on Mac with a perfect drop shadow using built-in keyboard shortcuts. Quick guide for CMD+Shift+4 and Spacebar."
 layout: post
 tags: osx mac
 redirect_from: /2019/02/screen-shot-on-osx-mac-with-shadow/

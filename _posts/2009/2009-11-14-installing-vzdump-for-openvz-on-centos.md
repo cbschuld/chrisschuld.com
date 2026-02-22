@@ -1,5 +1,6 @@
 ---
 title: Installing vzdump for OpenVZ on CentOS
+description: "How to install vzdump for OpenVZ backups on CentOS, including required dependencies like cstream, Perl LockFile::Simple, and Postfix as the MTA."
 layout: post
 categories: [Development, Linux]
 tags: openvz

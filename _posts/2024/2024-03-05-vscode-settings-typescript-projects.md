@@ -1,5 +1,6 @@
 ---
 title: Settings for Visual Studio Code (vscode) for TypeScript Projects
+description: "Recommended VS Code workspace settings for TypeScript projects including Prettier, ESLint, format-on-save, and node_modules exclusion config."
 categories: [Development]
 layout: post
 tags: vscode

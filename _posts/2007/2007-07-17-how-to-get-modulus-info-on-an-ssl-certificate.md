@@ -1,5 +1,6 @@
 ---
 title:  How to Get Modulus Info on an SSL Certificate
+description: "Troubleshoot SSL key and certificate mismatches by comparing modulus values using openssl. Fix the RSA server private key configuration error."
 layout: post
 categories: [Development, Linux]
 tags: linux

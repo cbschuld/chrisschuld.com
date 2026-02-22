@@ -1,0 +1,123 @@
+---
+layout: default
+refactor: true
+---
+
+{% include lang.html %}
+
+<div class="landing px-xl-1">
+
+  <!-- Products Section -->
+  <section class="landing-section">
+    <h2 class="landing-section__title">
+      <i class="fas fa-rocket"></i> Products
+    </h2>
+    <div class="product-grid">
+      {% for product in site.data.products %}
+        <a
+          href="{{ product.url }}"
+          class="product-card"
+          target="_blank"
+          rel="noopener"
+        >
+          <div class="product-card__header">
+            {% if product.logo %}
+              <img
+                src="{{ product.logo }}"
+                alt="{{ product.name }}"
+                class="product-card__logo"
+                width="32"
+                height="32"
+                loading="lazy"
+              />
+            {% endif %}
+            <h3 class="product-card__name">{{ product.name }}</h3>
+          </div>
+          <p class="product-card__tagline">{{ product.tagline }}</p>
+          <p class="product-card__description">{{ product.description }}</p>
+          <div class="product-card__badges">
+            {% for platform in product.platforms %}
+              <span class="badge">{{ platform }}</span>
+            {% endfor %}
+            {% if product.status == 'coming_soon' %}
+              <span class="badge badge--coming-soon">Coming Soon</span>
+            {% endif %}
+          </div>
+        </a>
+      {% endfor %}
+    </div>
+    <a href="/products/" class="landing-section__more">
+      All products &amp; open source &rarr;
+    </a>
+  </section>
+
+  <hr class="section-divider" />
+
+  <!-- Open Source Section -->
+  <section class="landing-section">
+    <h2 class="landing-section__title">
+      <i class="fab fa-github"></i> Open Source
+    </h2>
+    <div class="oss-grid">
+      {% for project in site.data.opensource %}
+        {% unless project.status == 'eol' %}
+          <a
+            href="{{ project.github }}"
+            class="oss-card"
+            target="_blank"
+            rel="noopener"
+          >
+            <h3 class="oss-card__name">{{ project.name }}</h3>
+            <p class="oss-card__description">{{ project.description }}</p>
+            <div class="oss-card__tech">
+              {% for t in project.tech %}
+                <span class="oss-card__tag">{{ t }}</span>
+              {% endfor %}
+            </div>
+          </a>
+        {% endunless %}
+      {% endfor %}
+    </div>
+    <a href="/products/" class="landing-section__more">
+      All open source projects &rarr;
+    </a>
+  </section>
+
+  <hr class="section-divider" />
+
+  <!-- Recent Posts Section -->
+  <section class="landing-section">
+    <h2 class="landing-section__title">
+      <i class="fas fa-pen-nib"></i> Recent Posts
+    </h2>
+    <div class="post-grid">
+      {% assign recent_posts = site.posts | where_exp: 'p', 'p.hidden != true' %}
+      {% for post in recent_posts limit: 4 %}
+        <a href="{{ post.url | relative_url }}" class="post-card">
+          <h3 class="post-card__title">{{ post.title }}</h3>
+          <p class="post-card__excerpt">
+            {% if post.description %}
+              {{ post.description | truncate: 160 }}
+            {% else %}
+              {{ post.content | markdownify | strip_html | truncate: 160 }}
+            {% endif %}
+          </p>
+          <div class="post-card__meta">
+            <span>
+              <i class="far fa-calendar fa-fw me-1"></i>
+              {% include datetime.html date=post.date lang=lang %}
+            </span>
+            {% if post.categories.size > 0 %}
+              <span>
+                <i class="far fa-folder-open fa-fw me-1"></i>
+                {{ post.categories | first }}
+              </span>
+            {% endif %}
+          </div>
+        </a>
+      {% endfor %}
+    </div>
+    <a href="/blog/" class="landing-section__more">View all posts &rarr;</a>
+  </section>
+
+</div>

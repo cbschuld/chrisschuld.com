@@ -1,5 +1,6 @@
 ---
 title: Playing MP3 Files in Fedora 8 using KDE
+description: "Enable MP3 playback in Fedora 8 with KDE by adding Livna repositories and installing the kdemultimedia-extras-nonfree package for Amarok support."
 layout: post
 categories: [Development, Browsers]
 tags: linux fedora

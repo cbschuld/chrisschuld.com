@@ -1,5 +1,6 @@
 ---
 title: Cellpadding and Cellspacing in CSS (part 2)
+description: "CSS equivalents for HTML4 cellpadding and cellspacing attributes using border-collapse, border-spacing, and padding with practical examples."
 categories: [Development, CSS]
 layout: post
 tags: css xhtml

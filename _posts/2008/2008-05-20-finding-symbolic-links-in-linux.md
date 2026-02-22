@@ -1,5 +1,6 @@
 ---
 title: Finding symbolic links in linux
+description: "A quick reference for finding all symbolic links in a Linux directory path using the find command with the -type l option."
 layout: post
 categories: [Development, Linux]
 tags: linux

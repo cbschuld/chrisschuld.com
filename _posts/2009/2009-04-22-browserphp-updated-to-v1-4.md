@@ -1,5 +1,6 @@
 ---
 title: Browser.php updated to v1.4
+description: "Browser.php v1.4 adds detection support for GoogleBot, Yahoo! Slurp, and the W3C Validator to the PHP browser detection class. Download it now."
 layout: post
 tags: php
 redirect_from: /2009/04/browserphp-updated-to-v1-4/

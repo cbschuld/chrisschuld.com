@@ -1,5 +1,6 @@
 ---
 title: Firefox Spell Checking - Add Word / Remove Words / Edit Words
+description: "How to edit Firefox's spell check dictionary to remove accidentally added words by locating and editing the persdict.dat profile file."
 layout: post
 categories: [Development, Browsers]
 tags: centos

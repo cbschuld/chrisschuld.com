@@ -1,5 +1,6 @@
 ---
 title: Monitoring an Adaptec 2400a RAID ARRAY with CentOS5 (RHEL)
+description: "Monitor an Adaptec 2400A RAID array on CentOS 5 or RHEL using raidutil with step-by-step installation and device configuration instructions."
 layout: post
 categories: [Development, Linux]
 tags: linux

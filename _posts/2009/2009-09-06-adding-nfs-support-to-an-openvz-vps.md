@@ -1,5 +1,6 @@
 ---
 title: Adding NFS support to an OpenVZ VPS
+description: "Quick guide to enabling NFS support on an OpenVZ VPS by loading the NFS module on the host node and installing nfs-utils inside the container."
 layout: post
 categories: [Development, Linux]
 tags: centos openvz

@@ -1,5 +1,6 @@
 ---
 title: Missing phpize?
+description: "Fix the phpize command not found error when installing PECL extensions by installing the php-devel package with yum on Fedora or RHEL systems."
 layout: post
 categories: [Development, Linux]
 tags: fedora php

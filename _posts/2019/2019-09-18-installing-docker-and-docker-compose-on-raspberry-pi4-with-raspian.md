@@ -1,5 +1,6 @@
 ---
 title: Installing docker and docker-compose on a Raspberry PI4 with Raspian
+description: "Install the latest Docker and Docker Compose on a Raspberry Pi 4 running Raspbian. Includes install, update and Python pip-based setup commands."
 categories: [Development, Raspberry Pi]
 layout: post
 tags: docker pi

@@ -1,5 +1,6 @@
 ---
 title: "An application building block: unique IDs for things"
+description: "Explore unique identifier strategies for applications including auto-increment, UUID v4, and Base-58 encoding to balance security and performance."
 categories: [Development]
 layout: post
 tags: dev node

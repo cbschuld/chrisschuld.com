@@ -1,5 +1,6 @@
 ---
 title: "Base-58 Encoding really big numbers in MySQL (5.6>)(128 bit)"
+description: "Encode 128-bit numbers like UUIDs in Base-58 using MySQL DECIMAL types. Includes functions for base58_encode and uuid_base58 generation."
 categories: [Development]
 layout: post
 tags: dev mysql

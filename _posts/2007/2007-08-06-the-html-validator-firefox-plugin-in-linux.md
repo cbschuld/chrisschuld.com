@@ -1,5 +1,6 @@
 ---
 title: The HTML Validator Firefox Plugin In Linux
+description: "Fix the HTML Validator Firefox plugin fatal error on Fedora Core 6 and Fedora 7 by installing missing compatibility libraries and tidy packages."
 layout: post
 categories: [Development, Browsers]
 tags: fedora firefox

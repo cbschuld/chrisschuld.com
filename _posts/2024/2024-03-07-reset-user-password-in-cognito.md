@@ -1,5 +1,6 @@
 ---
 title: Reset User Password in Cognito (with easy to use script)
+description: "Reset an AWS Cognito user password with the CLI using admin-set-user-password. Includes a reusable interactive shell script for quick resets."
 categories: [Development, AWS]
 layout: post
 tags: vscode

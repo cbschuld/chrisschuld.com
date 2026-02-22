@@ -1,5 +1,6 @@
 ---
 title: How to fix the Curl Error&#58; error setting certificate verify locations
+description: "Fix the curl error 'error setting certificate verify locations' on CentOS by correcting ca-bundle.crt file permissions instead of disabling SSL."
 layout: post
 categories: [Development, Linux]
 tags: centos

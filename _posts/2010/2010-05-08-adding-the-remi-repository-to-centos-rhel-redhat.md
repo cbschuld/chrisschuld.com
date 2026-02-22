@@ -1,5 +1,6 @@
 ---
 title: Adding the REMI Repository to CentOS / RHEL / RedHat
+description: "How to add, enable, and update packages from the REMI repository on CentOS and RHEL with simple step-by-step installation commands using RPM and yum."
 layout: post
 categories: [Development, Linux]
 tags: linux centos

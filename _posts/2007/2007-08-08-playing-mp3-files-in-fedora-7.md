@@ -1,5 +1,6 @@
 ---
 title: Playing MP3 files in Fedora 7
+description: "Enable MP3 playback in Fedora 7 by adding Livna repositories and installing Rhythmbox with the gstreamer-plugins-ugly package for audio support."
 layout: post
 categories: [Development, Linux]
 tags: fedora

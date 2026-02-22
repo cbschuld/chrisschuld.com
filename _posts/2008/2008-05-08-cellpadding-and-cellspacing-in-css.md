@@ -1,5 +1,6 @@
 ---
 title: Cellpadding and Cellspacing in CSS
+description: "Learn how to replace deprecated HTML cellpadding and cellspacing table attributes with CSS using border-collapse for modern web development."
 categories: [Development, CSS]
 layout: post
 tags: 

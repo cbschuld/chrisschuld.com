@@ -1,5 +1,6 @@
 ---
 title: Updating Ghostscript on CentOS 5.4 (ghostscript 8.70) (the remix)
+description: "Step-by-step guide to updating Ghostscript to version 8.70 on CentOS 5.4 by building from SRPMs, including prerequisites and pre-built RPM packages."
 layout: post
 categories: [Development, Linux]
 tags: linux

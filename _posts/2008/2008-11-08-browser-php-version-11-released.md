@@ -1,5 +1,6 @@
 ---
 title: Browser.php - version 1.1 - released!
+description: "Browser.php v1.1 release adds Google Chrome detection and a new isBrowser() method for easier PHP-based user agent browser detection."
 layout: post
 tags: php
 redirect_from: /2008/11/browser-php-version-11-released/

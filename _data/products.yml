@@ -1,0 +1,67 @@
+- name: Anticipated I/O
+  url: https://anticipated.io
+  tagline: Software events as a service
+  description: >-
+    Schedule millions of time-based events and automatically deliver messages
+    to your application when they trigger — no infrastructure to manage.
+  logo: /assets/img/products/anticipated.svg
+  platforms:
+    - Web
+  status: active
+
+- name: Six Degrees
+  url: https://getsixdegrees.com
+  tagline: A daily word puzzle game
+  description: >-
+    A daily word puzzle where players identify hidden thematic connections
+    between a set of phrases, inspired by Six Degrees of Separation.
+  logo: /assets/img/products/sixdegrees.svg
+  platforms:
+    - Web
+    - iOS
+    - Android
+  status: active
+
+- name: Point Wars
+  url: https://pointwars.com
+  tagline: Track scores and settle rivalries
+  description: >-
+    A score-tracking app that lets friends log wins, losses, and scores
+    across any game — with stats, leaderboards, and rivalry tracking.
+  logo: /assets/img/products/pointwars.svg
+  platforms:
+    - Web
+  status: active
+
+- name: JobPilot
+  url: https://jobpilot.io
+  tagline: Job scheduling for field service companies
+  description: >-
+    A job scheduling and management platform with drag-and-drop scheduling,
+    a client portal, and analytics for field service operations.
+  logo: /assets/img/products/jobpilot.svg
+  platforms:
+    - Web
+  status: coming_soon
+
+- name: CreateID
+  url: https://createid.net
+  tagline: Generate unique identifiers instantly
+  description: >-
+    A developer tool that generates UUIDs, ULIDs, NanoIDs, CUIDs, and 18+
+    other ID formats entirely client-side using the Web Crypto API.
+  logo: /assets/img/products/createid.svg
+  platforms:
+    - Web
+  status: active
+
+- name: ShowMyInfo
+  url: https://showmyinfo.net
+  tagline: See what the web sees about you
+  description: >-
+    A free utility that reveals your IP addresses, geolocation, browser
+    fingerprint, hardware specs, ISP details, and TLS info — exportable to JSON.
+  logo: /assets/img/products/showmyinfo.svg
+  platforms:
+    - Web
+  status: active

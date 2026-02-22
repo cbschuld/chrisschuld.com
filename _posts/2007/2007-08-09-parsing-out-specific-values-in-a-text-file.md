@@ -1,5 +1,6 @@
 ---
 title: Parsing Out Specific Values In a Text File
+description: "Extract specific data like names, emails, and phone numbers from text files using grep with Perl regular expressions and the -o output flag."
 layout: post
 categories: [Development, Linux]
 tags: linux regex

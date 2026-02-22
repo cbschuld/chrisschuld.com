@@ -1,20 +1,31 @@
 ---
 title: About
-icon: fas fa-info-circle
-order: 5
+icon: fas fa-user
+order: 4
 ---
 
-I am Chris Schuld and I live in Chandler, Arizona.  When I was ten years old I was shown [BASIC](https://en.wikipedia.org/wiki/BASIC) and [QBASIC](https://en.wikipedia.org/wiki/QBasic) by my fifth grade teacher and I fell in love with the idea I could control a computer.  I spent a lot of my time in front of the computer attempting to mimic software I saw in magazines and wishing I could [afford a hard drive](https://www.pcworld.com/article/127105/article.html) in the 80s.  Fast forward... earned a Bachelor of Engineering degree in Computer Systems Engineering from [Arizona State University](https://engineering.asu.edu/). I spent a few years at [Intel Corporation](https://intel.com/) before leaving to start my own ventures.
+I am Chris Schuld — a SaaS entrepreneur and software engineer based in Chandler, Arizona. I build web products, write about software engineering, and enjoy the intersection of technology and business.
 
-My passion resides in software architecture, rapid development approaches, serverless delivery, software design fundamentals and SaaS business strategy. I actively maintain several profitable production products in React JS, TypeScript, PHP, Node, C#, Python, Perl and Javascript.  You can [read more about my open source projects](/projects) as well.
+I started programming at age ten when my fifth grade teacher introduced me to [BASIC](https://en.wikipedia.org/wiki/BASIC) and [QBASIC](https://en.wikipedia.org/wiki/QBasic). That early spark led to a Bachelor of Engineering degree in Computer Systems Engineering from [Arizona State University](https://engineering.asu.edu/) and a career that started at [Intel Corporation](https://intel.com/) before I left to build my own products.
 
-### About this site
+### What I Build
 
-This site was created and is maintained with Jekyll.  I chose Jekyll specifically to decrease the amount of time I spend going from idea to publish.  In the past I was not able to keep up with the authoring of posts (the site was essentially dead for years) because it was not fluid to author content.  I enjoy [Markdown](https://en.wikipedia.org/wiki/Markdown) and find it easy to author content in Markdown.  Thus, Jekyll provides me a rapid platform to blog with.
+I run several SaaS products and web properties:
 
-For those curious here is how I produce the site:
-+ Uses Jekyll 3.8
-+ Hosted by GitHub via GitHub Pages
-+ Encrypted using Let's Encrypt
-+ Authored using Markdown on Visual Studio Code
-+ Uses the [Chirpy](https://github.com/cotes2020/jekyll-theme-chirpy)
+- **[Six Degrees](https://getsixdegrees.com)** — Relationship intelligence for networking
+- **[Point Wars](https://pointwars.com)** — Agile estimation made fun
+- **[CreateID](https://createid.net)** — Instant unique identifier generation
+- **[ShowMyInfo](https://showmyinfo.net)** — See what the web sees about you
+- **[JobPilot](https://jobpilot.io)** — AI-powered job search assistant *(coming soon)*
+
+### Tech Stack
+
+My current focus is **React**, **TypeScript**, **Node.js**, **AWS**, and **serverless** architectures. I also work with Python, PHP, and C# across various production systems. I believe in shipping fast, measuring everything, and keeping infrastructure simple.
+
+### Open Source
+
+I maintain several [open source projects](/products/) including [Browser.php](https://github.com/cbschuld/Browser.php), a widely-used PHP browser detection library, and tools for home automation and serverless infrastructure.
+
+### About This Site
+
+This site is built with [Jekyll](https://jekyllrb.com/) using the [Chirpy](https://github.com/cotes2020/jekyll-theme-chirpy) theme and hosted on [GitHub Pages](https://pages.github.com/). Content is authored in Markdown.

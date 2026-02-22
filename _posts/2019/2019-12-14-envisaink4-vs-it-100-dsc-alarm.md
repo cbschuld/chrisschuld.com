@@ -1,5 +1,6 @@
 ---
 title: EnvisaLink4 (EVL-4E) vs IT-100
+description: "A real-world comparison of the EnvisaLink EVL-4E and IT-100 for DSC alarm integration with Home Assistant. The EVL-4E wins on stability."
 categories: [Home Automation, Alarm]
 layout: post
 tags: home-automation home-assistant dsc

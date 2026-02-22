@@ -1,5 +1,6 @@
 ---
 title: Wiring 4 - 8Ω speakers to create a single 8Ω input (serial/parallel)
+description: "How to wire four 8-ohm speakers in a series-parallel configuration to maintain 8 ohms impedance for mono bridged amplifier output."
 categories: [Home Automation]
 layout: post
 tags: home-automation audio

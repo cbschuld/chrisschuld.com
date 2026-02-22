@@ -1,5 +1,6 @@
 ---
 title: Installing vzdump on CentOS 5.4 (32-bit)
+description: "Step-by-step instructions for installing vzdump for OpenVZ backups on 32-bit CentOS 5.4, including cstream and Perl dependency installation."
 layout: post
 categories: [Development, Linux]
 tags: openvz

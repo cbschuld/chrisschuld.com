@@ -1,0 +1,54 @@
+<!-- Person Schema (JSON-LD) -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "name": "Chris Schuld",
+  "url": "https://chrisschuld.com",
+  "image": "https://chrisschuld.com/assets/img/chris-schuld.webp",
+  "jobTitle": "SaaS Entrepreneur & Software Engineer",
+  "sameAs": [
+    "https://github.com/cbschuld",
+    "https://twitter.com/cbschuld",
+    "https://www.linkedin.com/in/cbschuld"
+  ],
+  "knowsAbout": [
+    "Software Engineering",
+    "SaaS",
+    "React",
+    "TypeScript",
+    "Node.js",
+    "AWS",
+    "Serverless"
+  ]
+}
+</script>
+
+{% if page.layout == 'landing' %}
+<!-- SoftwareApplication Schema for Products -->
+{% for product in site.data.products %}
+{% unless product.status == 'coming_soon' %}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "{{ product.name }}",
+  "url": "{{ product.url }}",
+  "description": "{{ product.description | strip_newlines }}",
+  "applicationCategory": "WebApplication",
+  "operatingSystem": "Any",
+  "author": {
+    "@type": "Person",
+    "name": "Chris Schuld",
+    "url": "https://chrisschuld.com"
+  },
+  "offers": {
+    "@type": "Offer",
+    "price": "0",
+    "priceCurrency": "USD"
+  }
+}
+</script>
+{% endunless %}
+{% endfor %}
+{% endif %}

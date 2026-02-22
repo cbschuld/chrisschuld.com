@@ -1,5 +1,6 @@
 ---
 title: "Waiting for MySQL in Docker (Github Workflow/Actions)"
+description: "Reliably wait for MySQL to be ready in Docker for CI/CD pipelines. A shell script solution for GitHub Actions and docker-compose workflows."
 categories: [Development, Docker]
 layout: post
 tags: dev docker

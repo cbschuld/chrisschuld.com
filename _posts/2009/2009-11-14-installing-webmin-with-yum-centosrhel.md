@@ -1,5 +1,6 @@
 ---
 title: Installing Webmin with YUM (CentOS,RHEL)
+description: "Quick three-command guide to installing Webmin on CentOS or RHEL using YUM by adding the official Webmin repository and importing the GPG key."
 layout: post
 categories: [Development, Linux]
 tags: openvz

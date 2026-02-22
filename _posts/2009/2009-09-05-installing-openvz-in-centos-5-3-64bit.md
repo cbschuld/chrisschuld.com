@@ -1,5 +1,6 @@
 ---
 title: Installing OpenVZ in CentOS 5.3 (64bit)
+description: "Complete walkthrough for installing OpenVZ on a 64-bit CentOS 5.3 server, including kernel setup, sysctl configuration, and disabling SELinux."
 layout: post
 categories: [Development, Linux]
 tags: centos openvz

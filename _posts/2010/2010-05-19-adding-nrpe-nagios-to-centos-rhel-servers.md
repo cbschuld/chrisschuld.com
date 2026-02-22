@@ -1,5 +1,6 @@
 ---
 title: Adding NRPE (Nagios) to CentOS \/ RHEL Servers
+description: "Simple process for installing and configuring the Nagios NRPE agent on CentOS and RHEL servers for remote monitoring using yum and chkconfig."
 layout: post
 categories: [Development, Linux]
 tags: linux

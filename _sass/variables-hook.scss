@@ -1,0 +1,28 @@
+/* Custom variable overrides for Chirpy theme */
+
+/* Accent color — replaces stock Chirpy purple */
+$link-color: #58a6ff;
+$link-color-dark: #58a6ff;
+
+/* Sidebar */
+$sidebar-bg: #0d1117;
+
+/* Body */
+:root[data-mode='dark'],
+:root {
+  --main-bg: #0d1117;
+  --sidebar-bg: #0d1117;
+  --card-bg: #161b22;
+  --card-border: #30363d;
+  --card-hover-border: #58a6ff;
+  --mask-bg: rgba(13, 17, 23, 0.6);
+  --heading-color: #e6edf3;
+  --text-color: #c9d1d9;
+  --text-muted-color: #8b949e;
+  --link-color: #58a6ff;
+  --link-underline-color: rgba(88, 166, 255, 0.4);
+  --btn-bg: #21262d;
+  --btn-border-color: #30363d;
+  --badge-bg: #1f6feb33;
+  --badge-color: #58a6ff;
+}

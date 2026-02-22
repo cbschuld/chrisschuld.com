@@ -1,5 +1,6 @@
 ---
 title: Securing Information in dotfiles / aliases / command line in MacOS with Password-Store (pass)
+description: "Secure passwords and secrets in your dotfiles and scripts using pass (Password Store), GPG encryption and a private GitHub repo on macOS."
 categories: [Development]
 layout: post
 tags: macos linux

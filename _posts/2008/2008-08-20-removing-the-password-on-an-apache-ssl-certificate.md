@@ -1,5 +1,6 @@
 ---
 title: Removing the Password on an Apache SSL Certificate
+description: "How to remove the passphrase from an Apache SSL certificate private key using openssl rsa to enable automated server restarts."
 layout: post
 categories: [Development, Linux]
 tags: linux

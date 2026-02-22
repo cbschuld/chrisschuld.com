@@ -1,5 +1,6 @@
 ---
 title: TFTP Server Logs (or lack there of)
+description: "Monitor TFTP server requests on Linux using tcpdump when xinetd-based TFTP lacks built-in logging. Useful for Cisco phone provisioning."
 layout: post
 categories: [Development, Linux]
 tags: linux

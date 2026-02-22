@@ -1,0 +1,109 @@
+- name: Monoprice Multizone Interface
+  description: >-
+    A mobile-centric React/TypeScript web app for controlling multi-zone
+    whole house audio systems using the Monoprice six zone controller.
+  github: https://github.com/cbschuld/monoprice-multizone-interface
+  tech:
+    - React
+    - TypeScript
+
+- name: Monoprice 6 Zone API
+  description: >-
+    JSON API wrapper for the RS-232 interface of the Monoprice 6 Zone
+    Home Audio Multizone Controller. Supports multiple amps and CORS.
+  github: https://github.com/jnewland/mpr-6zhmaut-api
+  tech:
+    - Node.js
+    - RS-232
+
+- name: KVBA
+  description: >-
+    A serverless key/value store built on AWS Lambda and API Gateway
+    with Basic HTTP Authorization and user-scoped key partitioning.
+  github: https://github.com/cbschuld/kvba
+  tech:
+    - AWS Lambda
+    - Serverless
+
+- name: Sharp AWS Lambda Layer
+  description: >-
+    Prebuilt Sharp Lambda layer for Node.js 18, 20, and 22 with optimized
+    binaries for both x86_64 and arm64 architectures.
+  github: https://github.com/cbschuld/sharp-aws-lambda-layer
+  tech:
+    - AWS Lambda
+    - Sharp
+    - Node.js
+
+- name: ImageMagick AWS Lambda Layer
+  description: >-
+    Static build of ImageMagick 7.1.1 for Amazon Linux, packaged as a Lambda
+    layer with support for webp, jpeg, gif, png, and tiff formats.
+  github: https://github.com/cbschuld/imagemagick-aws-lambda-layer
+  tech:
+    - AWS Lambda
+    - ImageMagick
+
+- name: valkey-pubsub
+  description: >-
+    A lightweight TypeScript Pub/Sub implementation for Mercurius GraphQL,
+    built on Valkey (Redis-compatible) for broadcast-style messaging.
+  github: https://github.com/cbschuld/valkey-pubsub
+  tech:
+    - TypeScript
+    - Valkey/Redis
+    - GraphQL
+
+- name: CF Static Website Hosting
+  description: >-
+    CloudFormation template that deploys a static website using S3, CloudFront
+    for CDN, and Route53 for DNS — fully automated.
+  github: https://github.com/cbschuld/aws-cf-static-website-hosting-s3-cloudfront-route53
+  tech:
+    - CloudFormation
+    - S3/CloudFront
+
+- name: CF Create Certificate
+  description: >-
+    CloudFormation template that automates SSL/TLS certificate creation
+    using AWS Certificate Manager with DNS validation.
+  github: https://github.com/cbschuld/aws-cf-create-certificate
+  tech:
+    - CloudFormation
+    - ACM/SSL
+
+- name: CF Domain Redirect
+  description: >-
+    Redirects all HTTP and HTTPS traffic from one domain to another
+    using CloudFormation, CloudFront, S3, and Route53.
+  github: https://github.com/cbschuld/aws-cf-redirect-to-another-domain
+  tech:
+    - CloudFormation
+    - CloudFront/S3
+
+- name: Browser.php
+  description: >-
+    A PHP class for detecting a user's browser, version, and platform.
+    Available as a Composer package on Packagist.
+  github: https://github.com/cbschuld/Browser.php
+  packagist: https://packagist.org/packages/cbschuld/browser.php
+  tech:
+    - PHP
+
+- name: LogEntries PHP
+  description: >-
+    A PSR-3 compliant PHP logging wrapper for the LogEntries service.
+    Drop-in compatible with any PSR-3 consumer.
+  github: https://github.com/cbschuld/logentries
+  packagist: https://packagist.org/packages/cbschuld/logentries
+  tech:
+    - PHP
+
+- name: PegasusPHP
+  description: >-
+    A PHP Model View Controller framework originally written for PHP 5
+    in 2004. Powered several revenue-generating projects.
+  github: https://github.com/cbschuld/pegasusphp.org
+  tech:
+    - PHP
+  status: eol

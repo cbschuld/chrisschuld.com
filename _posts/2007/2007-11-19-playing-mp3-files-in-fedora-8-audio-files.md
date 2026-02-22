@@ -1,5 +1,6 @@
 ---
 title: Playing MP3 Files in Fedora 8 using Gnome
+description: "Enable MP3 playback in Fedora 8 with Gnome by adding Livna repositories and installing Rhythmbox with gstreamer-plugins-ugly for audio support."
 layout: post
 categories: [Development, Browsers]
 tags: linux fedora

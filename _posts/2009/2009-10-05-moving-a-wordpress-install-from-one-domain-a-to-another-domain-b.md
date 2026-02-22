@@ -1,5 +1,6 @@
 ---
 title: Moving a WordPress Install from one Domain (A) to another Domain (B)
+description: "SQL queries to migrate a WordPress installation from one domain to another by updating posts, options, and metadata tables in the database."
 layout: post
 categories: [Development, WordPress]
 tags: wordpress

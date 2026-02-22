@@ -1,5 +1,6 @@
 ---
 title: Creating a user in Cognito quickly with a verified password
+description: "Quickly create AWS Cognito users with verified emails and permanent passwords using this reusable shell script and the AWS CLI."
 categories: [Development, AWS]
 layout: post
 tags: vscode
