@@ -9,8 +9,10 @@ Please see the [theme's docs](https://github.com/cotes2020/jekyll-theme-chirpy#d
 ### Run Locally
 
 ```sh
-bundle exec jekyll s
+docker compose up
 ```
+
+The site will be available at `http://localhost:4000` with live reload on port `35729`.
 
 ### 3rd Parties
 
