@@ -33,6 +33,17 @@
     - Web
   status: active
 
+- name: MarkedPDF
+  url: https://markedpdf.com
+  tagline: Markdown to PDF, beautifully
+  description: >-
+    A macOS app that transforms Markdown files into polished, professional
+    PDFs with themes, custom layouts, and real-time preview.
+  logo: /assets/img/products/markedpdf.png
+  platforms:
+    - macOS
+  status: active
+
 - name: JobPilot
   url: https://jobpilot.io
   tagline: Job scheduling for field service companies
