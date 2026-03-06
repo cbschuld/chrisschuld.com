@@ -40,8 +40,8 @@ echo "{$row->displayName}\t{$row->tmpid}\n";
 
 <strong>NOTE:</strong> I do make an assumption your keys will always be unique; as I append a <strong>s_</strong> to the key to construct the necessary &lt;li&gt; items (need to keep them unique for DOM reasons).
 
-Here is the original version of Peter's script: <a href="http://chrisschuld.com/wp-content/uploads/2008/07/suggestoriginal.txt">Original Version 1.1 (in text)</a>
+Here is the original version of Peter's script: <a href="https://chrisschuld.com/wp-content/uploads/2008/07/suggestoriginal.txt">Original Version 1.1 (in text)</a>
 
-Here are my updates (let us call it v1.2):<a href="http://chrisschuld.com/wp-content/uploads/2008/07/suggestupdated.txt">Updated Version 1.2 (in text)</a>
+Here are my updates (let us call it v1.2):<a href="https://chrisschuld.com/wp-content/uploads/2008/07/suggestupdated.txt">Updated Version 1.2 (in text)</a>
 
 <em>In hindsight there are definitely better ways to do this but this solution is working great still (this idea and solution go back to August of 2007); and I will always suggest "working effectively in production" is always better than how it "should be."</em>

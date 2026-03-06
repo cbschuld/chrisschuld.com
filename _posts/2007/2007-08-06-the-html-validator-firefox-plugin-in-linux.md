@@ -15,7 +15,7 @@ Getting rid of this message took me a few minutes of research and I never found 
 Here is how you get rid of this message and get the plugin working in <a href="http://fedoraproject.org/">Fedora Core 6</a> or <a href="http://fedoraproject.org/">Fedora 7</a>&#58;
 
 - First, uninstall the plugin by clicking on `Tools`&#45;&#45;&#62;Add-ons and clicking uninstall
-<a href='http://chrisschuld.com/wp-content/uploads/2007/08/remove-firefox-addon.png' title='Remove HTML Validator'><img src='http://chrisschuld.com/wp-content/uploads/2007/08/remove-firefox-addon.png' alt='Remove HTML Validator' /></a>
+<a href='https://chrisschuld.com/wp-content/uploads/2007/08/remove-firefox-addon.png' title='Remove HTML Validator'><img src='https://chrisschuld.com/wp-content/uploads/2007/08/remove-firefox-addon.png' alt='Remove HTML Validator' /></a>
 - Second, close all instances of Firefox
 - Next, install three packages using yum
 `compat-libstdc++-296` `compat-libstdc++-33` `tidy`

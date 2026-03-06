@@ -16,7 +16,7 @@ rpm -ivh "ftp://ftp.pbone.net/mirror/ftp.freshrpms.net/pub/freshrpms/pub/dag/red
 wget http://dag.wieers.com/rpm/packages/perl-LockFile-Simple/perl-LockFile-Simple-0.206-1.el5.rf.noarch.rpm
 rpm -ivh perl-LockFile-Simple-0.206-1.el5.rf.noarch.rpm
 /bin/rm perl-LockFile-Simple-0.206-1.el5.rf.noarch.rpm
-rpm -ivh "http://chrisschuld.com/centos54/vzdump-1.2-6.noarch.rpm"
+rpm -ivh "https://chrisschuld.com/centos54/vzdump-1.2-6.noarch.rpm"
 ```
 
 Make sure you add in the PERL5LIB in your export (see the [64bit post](http://{{ site.url }}/installing-vzdump-for-openvz-on-centos/)):

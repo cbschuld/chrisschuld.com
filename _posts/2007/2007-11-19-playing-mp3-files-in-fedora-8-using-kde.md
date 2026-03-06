@@ -18,7 +18,7 @@ rpm -ivh http://rpm.livna.org/livna-release-8.rpm
 yum install kdemultimedia-extras-nonfree
 ```
 That is it&#44; next launch Amarok as an example and hello MP3 music&#33;
-<img src='http://chrisschuld.com/wp-content/uploads/2007/11/screenshot-kde-amarok.png' alt='Amarok Launching' />
+<img src='https://chrisschuld.com/wp-content/uploads/2007/11/screenshot-kde-amarok.png' alt='Amarok Launching' />
 <em>Q&#58; Hey Chris, why does the kdemultimedia-extras package end in "-nonfree"
 A: Good question, tough answer, the kdemultimedia-extras-nonfree package contains plug-ins which cannot be shipped by Red Hat / Fedora because the license is <strong>not</strong> LGPL.  Please note the the license of the entire library is <strong>not</strong> LGPL!  So of course you shouldn't install it unless you pay the owners for licensing rights.
 </em>

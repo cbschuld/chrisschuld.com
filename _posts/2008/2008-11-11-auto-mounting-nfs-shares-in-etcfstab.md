@@ -17,4 +17,4 @@ To mount an NFS share using fstab `(/etc/fstab)` you need to know a few things, 
 10.0.0.50:/backup     /nfs/backup     nfs     rsize=8192,wsize=8192,timeo=14,intr
 ```
 
-When you are done, you can quickly refresh the `fstab` using the <a href="http://chrisschuld.com/2007/08/reload-fstab-etcfstab/">mount command</a>
+When you are done, you can quickly refresh the `fstab` using the <a href="https://chrisschuld.com/2007/08/reload-fstab-etcfstab/">mount command</a>

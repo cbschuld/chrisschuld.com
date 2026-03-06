@@ -25,7 +25,7 @@ yum install gstreamer-plugins-ugly
 ```
 </li>
 That is it, next launch Rythmbox and hello music!
-<img src='http://chrisschuld.com/wp-content/uploads/2007/08/fedora-rythmbox-launch.png' alt='Rythmbox Launch' />
+<img src='https://chrisschuld.com/wp-content/uploads/2007/08/fedora-rythmbox-launch.png' alt='Rythmbox Launch' />
 
 <em>Q: Hey Chris, why does the gstreamer-plugins end in "-ugly"
 A: Good question, tough answer, the GStreamer is a streaming media library which contains plug-ins which cannot be shipped in gstreamer-plugins-good because the license is <strong>not</strong> LGPL.  Please note the the license of the entire library is <strong>not</strong> LGPL!  So of course you shouldn't install it unless you pay the owners for licensing rights.

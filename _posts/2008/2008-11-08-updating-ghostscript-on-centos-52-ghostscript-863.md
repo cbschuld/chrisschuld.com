@@ -7,7 +7,7 @@ tags: linux centos
 redirect_from: /2008/11/updating-ghostscript-on-centos-52-ghostscript-863/
 ---
 
-<strong>PLEASE NOTE: I have <a href="http://chrisschuld.com/2010/01/updating-ghostscript-on-centos-5-4-ghostscript-8-70/">posted an update for CentOS5.4 and GhostScript 8.70</a>!</strong>
+<strong>PLEASE NOTE: I have <a href="https://chrisschuld.com/2010/01/updating-ghostscript-on-centos-5-4-ghostscript-8-70/">posted an update for CentOS5.4 and GhostScript 8.70</a>!</strong>
 
 
 Today I needed a newer version of ghostscript on my server pool for some back-end processing we do.  Updating ghostscript for RHEL5 / CentOS 5.2 turned out to be a pain!  I was nearly stucked into <a href="http://www.germane-software.com/~ser/Files/Essays/RPM_Hell.html">RPM hell</a>!
@@ -35,10 +35,10 @@ First, you'll need the jasper libraries which are not available via yum.  You ca
 
 ```bash
 
-rpm -Uvh http://chrisschuld.com/centos52/jasper-libs-1.900.1-8.i386.rpm
-rpm -Uvh http://chrisschuld.com/centos52/jasper-1.900.1-8.i386.rpm
-rpm -Uvh http://chrisschuld.com/centos52/jasper-utils-1.900.1-8.i386.rpm
-rpm -Uvh http://chrisschuld.com/centos52/jasper-devel-1.900.1-8.i386.rpm
+rpm -Uvh https://chrisschuld.com/centos52/jasper-libs-1.900.1-8.i386.rpm
+rpm -Uvh https://chrisschuld.com/centos52/jasper-1.900.1-8.i386.rpm
+rpm -Uvh https://chrisschuld.com/centos52/jasper-utils-1.900.1-8.i386.rpm
+rpm -Uvh https://chrisschuld.com/centos52/jasper-devel-1.900.1-8.i386.rpm
 
 ```
 
@@ -46,9 +46,9 @@ Next, here are the RPMs for RHEL5/CentOS5.2 for Ghostscript <em>(i386 32bit only
 
 ```bash
 
-rpm -Uvh http://chrisschuld.com/centos52/ghostscript-8.63-1.i386.rpm
-rpm -Uvh http://chrisschuld.com/centos52/ghostscript-devel-8.63-1.i386.rpm
-rpm -Uvh http://chrisschuld.com/centos52/ghostscript-gtk-8.63-1.i386.rpm
+rpm -Uvh https://chrisschuld.com/centos52/ghostscript-8.63-1.i386.rpm
+rpm -Uvh https://chrisschuld.com/centos52/ghostscript-devel-8.63-1.i386.rpm
+rpm -Uvh https://chrisschuld.com/centos52/ghostscript-gtk-8.63-1.i386.rpm
 
 ```
 
@@ -57,7 +57,7 @@ rpm -Uvh http://chrisschuld.com/centos52/ghostscript-gtk-8.63-1.i386.rpm
 
 
 
-<strong>PLEASE NOTE: I have <a href="http://chrisschuld.com/2010/01/updating-ghostscript-on-centos-5-4-ghostscript-8-70/">posted an update for CentOS5.4 and GhostScript 8.70</a>!</strong>
+<strong>PLEASE NOTE: I have <a href="https://chrisschuld.com/2010/01/updating-ghostscript-on-centos-5-4-ghostscript-8-70/">posted an update for CentOS5.4 and GhostScript 8.70</a>!</strong>
 
 
 

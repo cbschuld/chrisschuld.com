@@ -28,18 +28,18 @@ vzctl start 1057
 vzctl enter 1057
 ```
 
-Next, we start the update and install process via yum and a few RPMs I built for <a href="http://chrisschuld.com/2008/11/updating-ghostscript-on-centos-52-ghostscript-863/">Ghostscript</a>:
+Next, we start the update and install process via yum and a few RPMs I built for <a href="https://chrisschuld.com/2008/11/updating-ghostscript-on-centos-52-ghostscript-863/">Ghostscript</a>:
 ```bash
 yum -y update
 yum -y install rpm-build make libtiff-devel zlib-devel gcc gcc-c++ pam-devel openldap-devel freeglut libjpeg-devel libICE libSM libXt cairo urw-fonts
 
-rpm -Uvh http://chrisschuld.com/centos52/jasper-libs-1.900.1-8.i386.rpm
-rpm -Uvh http://chrisschuld.com/centos52/jasper-1.900.1-8.i386.rpm
-rpm -Uvh http://chrisschuld.com/centos52/jasper-utils-1.900.1-8.i386.rpm
-rpm -Uvh http://chrisschuld.com/centos52/jasper-devel-1.900.1-8.i386.rpm
-rpm -Uvh http://chrisschuld.com/centos52/ghostscript-fonts-8.11-1ht.noarch.rpm
-rpm -Uvh http://chrisschuld.com/centos52/ghostscript-8.63-1.i386.rpm
-rpm -Uvh http://chrisschuld.com/centos52/ghostscript-devel-8.63-1.i386.rpm
+rpm -Uvh https://chrisschuld.com/centos52/jasper-libs-1.900.1-8.i386.rpm
+rpm -Uvh https://chrisschuld.com/centos52/jasper-1.900.1-8.i386.rpm
+rpm -Uvh https://chrisschuld.com/centos52/jasper-utils-1.900.1-8.i386.rpm
+rpm -Uvh https://chrisschuld.com/centos52/jasper-devel-1.900.1-8.i386.rpm
+rpm -Uvh https://chrisschuld.com/centos52/ghostscript-fonts-8.11-1ht.noarch.rpm
+rpm -Uvh https://chrisschuld.com/centos52/ghostscript-8.63-1.i386.rpm
+rpm -Uvh https://chrisschuld.com/centos52/ghostscript-devel-8.63-1.i386.rpm
 
 cd /root
 wget http://internap.dl.sourceforge.net/sourceforge/hylafax/hylafax-5.2.7-1.src.rpm
@@ -65,10 +65,10 @@ cp iaxmodem /usr/local/sbin/
 mkdir /etc/iaxmodem /var/log/iaxmodem
 touch /var/log/iaxmodem/iaxmodem
 pushd .; cd /etc/iaxmodem
-wget http://chrisschuld.com/wp-content/uploads/2008/11/ttyIAX0
+wget https://chrisschuld.com/wp-content/uploads/2008/11/ttyIAX0
 popd
 pushd .; cd /etc/init.d/
-wget http://chrisschuld.com/wp-content/uploads/2008/11/iaxmodem
+wget https://chrisschuld.com/wp-content/uploads/2008/11/iaxmodem
 popd
 cp config.ttyIAX /var/spool/hylafax/etc/config.ttyIAX0
 

@@ -24,7 +24,7 @@ The Firefox Profile Folder is located in different places depending on what Oper
 
 
 If you are using Windows XP or Windows Vista you can quickly jump to the directory by typing "%APPDATA%\Mozilla\Firefox\Profiles\" into the run box (click on Start-->Run).
-<a href='http://chrisschuld.com/wp-content/uploads/2007/07/mozilla-profiles-start-run.png' title='Mozilla Profiles Path'><img src='http://chrisschuld.com/wp-content/uploads/2007/07/mozilla-profiles-start-run.png' alt='Mozilla Profiles Path' /></a>
+<a href='https://chrisschuld.com/wp-content/uploads/2007/07/mozilla-profiles-start-run.png' title='Mozilla Profiles Path'><img src='https://chrisschuld.com/wp-content/uploads/2007/07/mozilla-profiles-start-run.png' alt='Mozilla Profiles Path' /></a>
 
 Once you have found your profile folder you need to edit the persdict.dat file.  Using your favorite text editor open up that file and edit out / add in the words you desire.
 

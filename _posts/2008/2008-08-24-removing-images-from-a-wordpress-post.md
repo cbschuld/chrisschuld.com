@@ -20,4 +20,4 @@ Here is the solution&#58;
 ?>
 ```
 
-**EDIT** &#58; make sure you check out the [updated version of this solution](http://chrisschuld.com/2009/04/removing-images-in-a-wordpress-post-revisited).  Also, view my solution for [removing everything but the images](http://chrisschuld.com/2009/11/removing-everything-but-images-in-a-wordpress-post).
+**EDIT** &#58; make sure you check out the [updated version of this solution](https://chrisschuld.com/2009/04/removing-images-in-a-wordpress-post-revisited).  Also, view my solution for [removing everything but the images](https://chrisschuld.com/2009/11/removing-everything-but-images-in-a-wordpress-post).

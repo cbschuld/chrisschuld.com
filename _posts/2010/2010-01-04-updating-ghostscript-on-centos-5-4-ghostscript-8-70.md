@@ -34,5 +34,5 @@ rpmbuild --rebuild ghostscript-8.70-1.fc10.src.rpm
 and that is how I do it! If you are feeling exceptionally lazy and have some inherent trust for my builds in x86_64... here they are:
 
 ```bash
-rpm -Uvh http://chrisschuld.com/centos54/ghostscript-8.70-1.x86_64.rpm http://chrisschuld.com/centos54/ghostscript-fonts-5.50-13.1.1.noarch.rpm http://chrisschuld.com/centos54/ghostscript-gtk-8.70-1.x86_64.rpm
+rpm -Uvh https://chrisschuld.com/centos54/ghostscript-8.70-1.x86_64.rpm https://chrisschuld.com/centos54/ghostscript-fonts-5.50-13.1.1.noarch.rpm https://chrisschuld.com/centos54/ghostscript-gtk-8.70-1.x86_64.rpm
 ```
