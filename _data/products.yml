@@ -1,3 +1,14 @@
+- name: imgbt
+  url: https://imgbt.com
+  tagline: Upload, transform, and deliver media at the edge
+  description: >-
+    A developer-first media platform for uploading, transforming, and delivering
+    images, PDFs, and binary files from 300+ global edge nodes with zero egress fees.
+  logo: /assets/img/products/imgbt.svg
+  platforms:
+    - Web
+  status: active
+
 - name: Anticipated I/O
   url: https://anticipated.io
   tagline: Software events as a service
@@ -62,17 +73,6 @@
     A developer tool that generates UUIDs, ULIDs, NanoIDs, CUIDs, and 18+
     other ID formats entirely client-side using the Web Crypto API.
   logo: /assets/img/products/createid.svg
-  platforms:
-    - Web
-  status: active
-
-- name: imgbt
-  url: https://imgbt.com
-  tagline: Upload, transform, and deliver media at the edge
-  description: >-
-    A developer-first media platform for uploading, transforming, and delivering
-    images, PDFs, and binary files from 300+ global edge nodes with zero egress fees.
-  logo: /assets/img/products/imgbt.svg
   platforms:
     - Web
   status: active
