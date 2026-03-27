@@ -12,11 +12,14 @@ I started programming at age ten when my fifth grade teacher introduced me to [B
 
 I run several SaaS products and web properties:
 
-- **[Six Degrees](https://getsixdegrees.com)** — Relationship intelligence for networking
-- **[Point Wars](https://pointwars.com)** — Agile estimation made fun
-- **[CreateID](https://createid.net)** — Instant unique identifier generation
+- **[imgbt](https://imgbt.com)** — Upload, transform, and deliver media at the edge
+- **[Anticipated I/O](https://anticipated.io)** — Software events as a service
+- **[Six Degrees](https://getsixdegrees.com)** — A daily word puzzle game
+- **[Point Wars](https://pointwars.com)** — Track scores and settle rivalries
+- **[MarkedPDF](https://markedpdf.com)** — Markdown to PDF, beautifully
+- **[CreateID](https://createid.net)** — Generate unique identifiers instantly
 - **[ShowMyInfo](https://showmyinfo.net)** — See what the web sees about you
-- **[JobPilot](https://jobpilot.io)** — AI-powered job search assistant *(coming soon)*
+- **[JobPilot](https://jobpilot.io)** — Job scheduling for field service companies *(coming soon)*
 
 ### Tech Stack
 
